@@ -1,0 +1,10 @@
+{
+  "programming_languages": ["python", "sql", "r", "java", "scala", "javascript", "c++", "julia"],
+  "data_libraries": ["pandas", "numpy", "scikit-learn", "pytorch", "tensorflow", "keras", "spark", "hadoop", "dask", "xgboost"],
+  "ml_ai": ["machine learning", "deep learning", "nlp", "computer vision", "llm", "generative ai", "reinforcement learning", "mlops", "model deployment", "feature engineering"],
+  "cloud_platforms": ["aws", "azure", "gcp", "google cloud", "databricks", "snowflake", "redshift", "bigquery"],
+  "data_engineering": ["etl", "airflow", "kafka", "dbt", "data warehouse", "data pipeline", "docker", "kubernetes", "ci/cd"],
+  "visualization_bi": ["tableau", "power bi", "looker", "matplotlib", "seaborn", "plotly", "excel"],
+  "soft_skills": ["communication", "stakeholder management", "problem solving", "leadership", "collaboration", "project management", "agile", "scrum"],
+  "statistics": ["statistics", "a/b testing", "hypothesis testing", "regression", "bayesian", "experiment design", "causal inference"]
+}

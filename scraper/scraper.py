@@ -3,7 +3,8 @@ job feed, plus a generic BeautifulSoup-based HTML parser for job postings
 saved locally (e.g. from a board that disallows automated scraping).
 """
 
-from typing import Optional
+import re
+from typing import List, Optional, Union
 
 import pandas as pd
 import requests
@@ -20,7 +21,22 @@ USER_AGENT = (
 )
 
 
-def fetch_remoteok_jobs(query: Optional[str] = None, limit: int = 100) -> pd.DataFrame:
+def _matches_any_keyword(text: str, keywords: List[str]) -> bool:
+    """Check whether any keyword appears in text as a whole word/phrase.
+
+    Uses word-boundary matching so short/ambiguous keywords like "ai" don't
+    false-match inside unrelated words (e.g. "email", "detail", "maintain").
+    """
+    text_lower = text.lower()
+    for keyword in keywords:
+        pattern = r"(?<![a-z0-9])" + re.escape(keyword.lower()) + r"(?![a-z0-9])"
+        if re.search(pattern, text_lower):
+            return True
+    return False
+
+
+def fetch_remoteok_jobs(query: Optional[Union[str, List[str]]] = None,
+                         limit: int = 100) -> pd.DataFrame:
     """Fetch live job postings from RemoteOK's public JSON feed.
 
     RemoteOK exposes an open JSON API (no auth required) intended for this
@@ -28,8 +44,10 @@ def fetch_remoteok_jobs(query: Optional[str] = None, limit: int = 100) -> pd.Dat
     scraping HTML from boards like LinkedIn or Indeed.
 
     Args:
-        query: Optional case-insensitive keyword to filter job postings by
-            (matched against position title and tags), e.g. "data" or "ai".
+        query: Optional keyword or list of keywords to filter postings by
+            (OR-matched, case-insensitive, whole-word/phrase against
+            position title and tags), e.g. "data" or ["ai", "data scien"].
+            A single keyword can be passed as a plain string.
         limit: Maximum number of postings to return.
 
     Returns:
@@ -52,12 +70,12 @@ def fetch_remoteok_jobs(query: Optional[str] = None, limit: int = 100) -> pd.Dat
     # The first element of the RemoteOK feed is a legacy metadata object, not a job.
     jobs = [item for item in payload if isinstance(item, dict) and "position" in item]
 
-    if query:
-        query_lower = query.lower()
+    keywords = [query] if isinstance(query, str) else (query or [])
+    if keywords:
         jobs = [
             job for job in jobs
-            if query_lower in str(job.get("position", "")).lower()
-            or any(query_lower in str(tag).lower() for tag in job.get("tags", []))
+            if _matches_any_keyword(str(job.get("position", "")), keywords)
+            or any(_matches_any_keyword(str(tag), keywords) for tag in job.get("tags", []))
         ]
 
     jobs = jobs[:limit]

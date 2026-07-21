@@ -1,0 +1,50 @@
+name: Track AI/Data Science Job Skills
+
+# Runs every 6 hours so the skill-demand tracker keeps building history
+# 24/7 in the cloud, independent of whether any machine is on locally.
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: track-ai-data-jobs
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job skill tracker (AI + data science roles)
+        run: python main.py --query ai "data scientist" "data science" --limit 100
+
+      - name: Commit updated history and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add history/ reports/summary_report.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update AI/data job skill tracking $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git pull --rebase origin "${{ github.ref_name }}"
+            git push
+          fi

@@ -82,3 +82,45 @@ def plot_skill_gap(gap_df: pd.DataFrame, output_dir: str, top_n: int = 15) -> st
 
     logger.info("Saved skill-gap plot to %s", path)
     return str(path)
+
+
+def plot_skill_demand_trend(history_df: pd.DataFrame, output_dir: str, top_n: int = 5) -> str:
+    """Plot how demand for the top skills has changed across historical runs.
+
+    Args:
+        history_df: DataFrame from history.load_skill_history with columns
+            ["run_timestamp", "skill", "percent_of_postings", ...].
+        output_dir: Directory to save the generated PNG file into.
+        top_n: Number of skills (ranked by most recent run) to plot lines for.
+
+    Returns:
+        Path to the saved PNG file, or an empty string if there isn't
+        enough history yet (fewer than 2 distinct runs).
+    """
+    if history_df.empty or history_df["run_timestamp"].nunique() < 2:
+        logger.info("Not enough historical runs yet to plot a trend (need >= 2)")
+        return ""
+
+    latest_run = history_df["run_timestamp"].max()
+    top_skill_names = (
+        history_df[history_df["run_timestamp"] == latest_run]
+        .nlargest(top_n, "percent_of_postings")["skill"]
+        .tolist()
+    )
+    plot_df = history_df[history_df["skill"].isin(top_skill_names)]
+
+    Path(output_dir).mkdir(parents=True, exist_ok=True)
+    fig, ax = plt.subplots(figsize=(9, 5))
+    sns.lineplot(data=plot_df, x="run_timestamp", y="percent_of_postings", hue="skill", marker="o", ax=ax)
+    ax.set_title("Skill Demand Trend Over Time")
+    ax.set_xlabel("Run Timestamp")
+    ax.set_ylabel("% of Postings")
+    ax.tick_params(axis="x", rotation=45)
+    fig.tight_layout()
+
+    path = Path(output_dir) / "skill_demand_trend.png"
+    fig.savefig(path)
+    plt.close(fig)
+
+    logger.info("Saved skill demand trend plot to %s", path)
+    return str(path)

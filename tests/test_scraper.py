@@ -3,8 +3,9 @@
 import pandas as pd
 
 from scraper.analyzer import skill_gap_analysis, top_skills, top_skills_by_role
+from scraper.history import append_skill_history, load_skill_history
 from scraper.roadmap import generate_learning_roadmap
-from scraper.scraper import parse_job_posting_html
+from scraper.scraper import _matches_any_keyword, parse_job_posting_html
 from scraper.skill_extractor import extract_skills, flatten_taxonomy
 
 TAXONOMY = {
@@ -88,3 +89,32 @@ def test_parse_job_posting_html_extracts_title():
     assert result["title"] == "Data Scientist"
     assert result["company"] == "Acme"
     assert result["url"] == "https://example.com"
+
+
+def test_matches_any_keyword_word_boundary_avoids_false_positive():
+    assert not _matches_any_keyword("Customer Email Support Specialist", ["ai"])
+
+
+def test_matches_any_keyword_matches_ai_role_titles():
+    keywords = ["ai", "data scientist", "data science"]
+    assert _matches_any_keyword("AI Psychiatrist", keywords)
+    assert _matches_any_keyword("Senior Data Scientist", keywords)
+    assert not _matches_any_keyword("Customer Support Rep", keywords)
+
+
+def test_append_and_load_skill_history_roundtrip(tmp_path):
+    history_path = tmp_path / "history.csv"
+    run1 = pd.DataFrame({"skill": ["python", "sql"], "count": [3, 2], "percent_of_postings": [75.0, 50.0]})
+    run2 = pd.DataFrame({"skill": ["python"], "count": [5], "percent_of_postings": [100.0]})
+
+    append_skill_history(run1, "2026-01-01T00:00:00", "ai, data scien", str(history_path), posting_count=4)
+    append_skill_history(run2, "2026-01-02T00:00:00", "ai, data scien", str(history_path), posting_count=5)
+
+    history = load_skill_history(str(history_path))
+    assert len(history) == 3
+    assert history["run_timestamp"].nunique() == 2
+    assert set(history.columns) >= {"run_timestamp", "query", "skill", "count", "percent_of_postings", "posting_count"}
+
+
+def test_load_skill_history_missing_file_returns_empty(tmp_path):
+    assert load_skill_history(str(tmp_path / "does_not_exist.csv")).empty

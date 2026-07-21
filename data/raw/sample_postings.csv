@@ -1,0 +1,6 @@
+position,company,description,tags,location,url,date
+Data Scientist,Acme Analytics,"We need a data scientist skilled in python, pandas, scikit-learn, and statistics to build regression models and run A/B testing experiments. AWS experience is a plus.",data science,Remote,https://example.com/1,2026-01-01
+Data Scientist,Beta Insights,"Looking for someone strong in python, sql, machine learning, and deep learning using pytorch. Experience with mlops and docker is required.",data science,Remote,https://example.com/2,2026-01-02
+Data Analyst,Gamma Corp,"The ideal candidate knows sql, excel, tableau, and power bi for dashboarding and reporting. Strong communication and stakeholder management skills needed.",analytics,Remote,https://example.com/3,2026-01-03
+Machine Learning Engineer,Delta AI,"You will build and deploy llm and generative ai systems using python, pytorch, kubernetes, and aws. Familiarity with nlp is expected.",ml engineering,Remote,https://example.com/4,2026-01-04
+Data Engineer,Epsilon Data,"Build etl pipelines with airflow, kafka, spark, and dbt on gcp and snowflake. Python and sql required.",data engineering,Remote,https://example.com/5,2026-01-05

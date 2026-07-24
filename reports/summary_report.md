@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-07-24T02:08:46_
+_Generated: 2026-07-24T08:16:20_
 
-_Based on 11 accumulated run(s)_
+_Based on 12 accumulated run(s)_
 
 
 
@@ -12,25 +12,17 @@ _Based on 11 accumulated run(s)_
 
 | skill         |   count |   percent_of_postings |
 |:--------------|--------:|----------------------:|
-| communication |       2 |                  66.7 |
-| collaboration |       1 |                  33.3 |
-| azure         |       1 |                  33.3 |
-| databricks    |       1 |                  33.3 |
-| power bi      |       1 |                  33.3 |
-| python        |       1 |                  33.3 |
-| sql           |       1 |                  33.3 |
-| excel         |       1 |                  33.3 |
+| collaboration |       1 |                    50 |
+| communication |       1 |                    50 |
+| azure         |       1 |                    50 |
+| databricks    |       1 |                    50 |
+| power bi      |       1 |                    50 |
+| python        |       1 |                    50 |
+| sql           |       1 |                    50 |
 
 
 
 ## Top Skills by Role
-
-### Data Analyst Assistant
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| communication |       1 |                   100 |
-| excel         |       1 |                   100 |
 
 ### Junior Designer
 
@@ -55,14 +47,13 @@ _Based on 11 accumulated run(s)_
 
 | skill         |   count |   percent_of_postings | already_have   |
 |:--------------|--------:|----------------------:|:---------------|
-| communication |       2 |                  66.7 | False          |
-| collaboration |       1 |                  33.3 | False          |
-| azure         |       1 |                  33.3 | False          |
-| databricks    |       1 |                  33.3 | False          |
-| power bi      |       1 |                  33.3 | False          |
-| python        |       1 |                  33.3 | False          |
-| sql           |       1 |                  33.3 | False          |
-| excel         |       1 |                  33.3 | False          |
+| collaboration |       1 |                    50 | False          |
+| communication |       1 |                    50 | False          |
+| azure         |       1 |                    50 | False          |
+| databricks    |       1 |                    50 | False          |
+| power bi      |       1 |                    50 | False          |
+| python        |       1 |                    50 | False          |
+| sql           |       1 |                    50 | False          |
 
 
 
@@ -70,17 +61,16 @@ _Based on 11 accumulated run(s)_
 
 |   priority | skill         |   demand_percent | category              | suggested_resource                                                           |
 |-----------:|:--------------|-----------------:|:----------------------|:-----------------------------------------------------------------------------|
-|          1 | communication |             66.7 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.       |
-|          2 | collaboration |             33.3 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.       |
-|          3 | azure         |             33.3 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).    |
-|          4 | databricks    |             33.3 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).    |
-|          5 | power bi      |             33.3 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.               |
-|          6 | python        |             33.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism). |
-|          7 | sql           |             33.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism). |
-|          8 | excel         |             33.3 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.               |
+|          1 | collaboration |               50 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.       |
+|          2 | communication |               50 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.       |
+|          3 | azure         |               50 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).    |
+|          4 | databricks    |               50 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).    |
+|          5 | power bi      |               50 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.               |
+|          6 | python        |               50 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism). |
+|          7 | sql           |               50 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism). |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 11 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 12 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

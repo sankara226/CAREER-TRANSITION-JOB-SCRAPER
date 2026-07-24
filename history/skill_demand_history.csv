@@ -50,3 +50,11 @@ run_timestamp,query,skill,count,percent_of_postings,posting_count
 2026-07-23T19:06:40,"ai, data scientist, data science",power bi,1,100.0,1
 2026-07-23T19:06:40,"ai, data scientist, data science",python,1,100.0,1
 2026-07-23T19:06:40,"ai, data scientist, data science",sql,1,100.0,1
+2026-07-24T02:08:45,"ai, data scientist, data science",communication,2,66.7,3
+2026-07-24T02:08:45,"ai, data scientist, data science",collaboration,1,33.3,3
+2026-07-24T02:08:45,"ai, data scientist, data science",azure,1,33.3,3
+2026-07-24T02:08:45,"ai, data scientist, data science",databricks,1,33.3,3
+2026-07-24T02:08:45,"ai, data scientist, data science",power bi,1,33.3,3
+2026-07-24T02:08:45,"ai, data scientist, data science",python,1,33.3,3
+2026-07-24T02:08:45,"ai, data scientist, data science",sql,1,33.3,3
+2026-07-24T02:08:45,"ai, data scientist, data science",excel,1,33.3,3

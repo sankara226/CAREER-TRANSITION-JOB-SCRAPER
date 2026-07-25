@@ -2,7 +2,7 @@
 
 
 
-_Generated: 2026-07-24T13:25:35_
+_Generated: 2026-07-25T02:08:29_
 
 _Based on 13 accumulated run(s)_
 
@@ -10,39 +10,27 @@ _Based on 13 accumulated run(s)_
 
 ## Top Skills Across All Postings
 
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| collaboration |       1 |                   100 |
-| communication |       1 |                   100 |
+_No skill data available._
 
 
 
 ## Top Skills by Role
 
-### Junior Designer
+### Junior Procurement Specialist
 
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| collaboration |       1 |                   100 |
-| communication |       1 |                   100 |
+_No data._
 
 
 
 ## Skill Gap Analysis
 
-| skill         |   count |   percent_of_postings | already_have   |
-|:--------------|--------:|----------------------:|:---------------|
-| collaboration |       1 |                   100 | False          |
-| communication |       1 |                   100 | False          |
+_No gap analysis available._
 
 
 
 ## Suggested Learning Roadmap
 
-|   priority | skill         |   demand_percent | category    | suggested_resource                                                     |
-|-----------:|:--------------|-----------------:|:------------|:-----------------------------------------------------------------------|
-|          1 | collaboration |              100 | soft_skills | Seek cross-functional project ownership and structured feedback loops. |
-|          2 | communication |              100 | soft_skills | Seek cross-functional project ownership and structured feedback loops. |
+_No roadmap generated — no skill gaps detected or no data available._
 
 
 

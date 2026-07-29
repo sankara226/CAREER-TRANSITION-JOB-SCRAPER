@@ -101,3 +101,15 @@ run_timestamp,query,skill,count,percent_of_postings,posting_count
 2026-07-28T13:51:56,"ai, data scientist, data science",communication,1,50.0,2
 2026-07-28T19:15:54,"ai, data scientist, data science",communication,1,50.0,2
 2026-07-29T02:04:34,"ai, data scientist, data science",communication,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",communication,2,100.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",bigquery,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",ci/cd,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",collaboration,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",etl,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",gcp,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",google cloud,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",java,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",machine learning,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",python,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",sql,1,50.0,2
+2026-07-29T08:30:41,"ai, data scientist, data science",excel,1,50.0,2

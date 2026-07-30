@@ -161,3 +161,22 @@ run_timestamp,query,skill,count,percent_of_postings,posting_count
 2026-07-30T08:15:02,"ai, data scientist, data science",python,1,50.0,2
 2026-07-30T08:15:02,"ai, data scientist, data science",sql,1,50.0,2
 2026-07-30T08:15:02,"ai, data scientist, data science",excel,1,50.0,2
+2026-07-30T13:46:15,"ai, data scientist, data science",communication,3,100.0,3
+2026-07-30T13:46:15,"ai, data scientist, data science",excel,2,66.7,3
+2026-07-30T13:46:15,"ai, data scientist, data science",machine learning,2,66.7,3
+2026-07-30T13:46:15,"ai, data scientist, data science",python,2,66.7,3
+2026-07-30T13:46:15,"ai, data scientist, data science",sql,2,66.7,3
+2026-07-30T13:46:15,"ai, data scientist, data science",looker,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",numpy,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",pandas,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",power bi,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",reinforcement learning,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",statistics,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",tableau,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",bigquery,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",ci/cd,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",collaboration,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",etl,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",gcp,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",google cloud,1,33.3,3
+2026-07-30T13:46:15,"ai, data scientist, data science",java,1,33.3,3

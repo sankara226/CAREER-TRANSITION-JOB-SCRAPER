@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-07-31T19:16:16_
+_Generated: 2026-08-01T02:14:21_
 
-_Based on 34 accumulated run(s)_
+_Based on 35 accumulated run(s)_
 
 
 
@@ -12,45 +12,30 @@ _Based on 34 accumulated run(s)_
 
 | skill                  |   count |   percent_of_postings |
 |:-----------------------|--------:|----------------------:|
-| communication          |       5 |                  83.3 |
-| collaboration          |       3 |                  50   |
-| machine learning       |       3 |                  50   |
-| python                 |       3 |                  50   |
-| sql                    |       3 |                  50   |
-| excel                  |       2 |                  33.3 |
-| java                   |       2 |                  33.3 |
-| leadership             |       2 |                  33.3 |
-| power bi               |       2 |                  33.3 |
-| tableau                |       2 |                  33.3 |
-| data warehouse         |       1 |                  16.7 |
-| problem solving        |       1 |                  16.7 |
-| scala                  |       1 |                  16.7 |
-| generative ai          |       1 |                  16.7 |
-| stakeholder management |       1 |                  16.7 |
-| looker                 |       1 |                  16.7 |
-| numpy                  |       1 |                  16.7 |
-| pandas                 |       1 |                  16.7 |
-| reinforcement learning |       1 |                  16.7 |
-| statistics             |       1 |                  16.7 |
+| communication          |       4 |                    80 |
+| collaboration          |       2 |                    40 |
+| excel                  |       2 |                    40 |
+| leadership             |       2 |                    40 |
+| machine learning       |       2 |                    40 |
+| power bi               |       2 |                    40 |
+| python                 |       2 |                    40 |
+| sql                    |       2 |                    40 |
+| tableau                |       2 |                    40 |
+| data warehouse         |       1 |                    20 |
+| java                   |       1 |                    20 |
+| problem solving        |       1 |                    20 |
+| scala                  |       1 |                    20 |
+| generative ai          |       1 |                    20 |
+| stakeholder management |       1 |                    20 |
+| looker                 |       1 |                    20 |
+| numpy                  |       1 |                    20 |
+| pandas                 |       1 |                    20 |
+| reinforcement learning |       1 |                    20 |
+| statistics             |       1 |                    20 |
 
 
 
 ## Top Skills by Role
-
-### AI Intern
-
-| skill            |   count |   percent_of_postings |
-|:-----------------|--------:|----------------------:|
-| bigquery         |       1 |                   100 |
-| ci/cd            |       1 |                   100 |
-| collaboration    |       1 |                   100 |
-| communication    |       1 |                   100 |
-| etl              |       1 |                   100 |
-| gcp              |       1 |                   100 |
-| google cloud     |       1 |                   100 |
-| java             |       1 |                   100 |
-| machine learning |       1 |                   100 |
-| python           |       1 |                   100 |
 
 ### AI Trainer Freelance Data Annotator
 
@@ -109,26 +94,26 @@ _Based on 34 accumulated run(s)_
 
 | skill                  |   count |   percent_of_postings | already_have   |
 |:-----------------------|--------:|----------------------:|:---------------|
-| communication          |       5 |                  83.3 | False          |
-| collaboration          |       3 |                  50   | False          |
-| machine learning       |       3 |                  50   | False          |
-| python                 |       3 |                  50   | False          |
-| sql                    |       3 |                  50   | False          |
-| excel                  |       2 |                  33.3 | False          |
-| java                   |       2 |                  33.3 | False          |
-| leadership             |       2 |                  33.3 | False          |
-| power bi               |       2 |                  33.3 | False          |
-| tableau                |       2 |                  33.3 | False          |
-| data warehouse         |       1 |                  16.7 | False          |
-| problem solving        |       1 |                  16.7 | False          |
-| scala                  |       1 |                  16.7 | False          |
-| generative ai          |       1 |                  16.7 | False          |
-| stakeholder management |       1 |                  16.7 | False          |
-| looker                 |       1 |                  16.7 | False          |
-| numpy                  |       1 |                  16.7 | False          |
-| pandas                 |       1 |                  16.7 | False          |
-| reinforcement learning |       1 |                  16.7 | False          |
-| statistics             |       1 |                  16.7 | False          |
+| communication          |       4 |                    80 | False          |
+| collaboration          |       2 |                    40 | False          |
+| excel                  |       2 |                    40 | False          |
+| leadership             |       2 |                    40 | False          |
+| machine learning       |       2 |                    40 | False          |
+| power bi               |       2 |                    40 | False          |
+| python                 |       2 |                    40 | False          |
+| sql                    |       2 |                    40 | False          |
+| tableau                |       2 |                    40 | False          |
+| data warehouse         |       1 |                    20 | False          |
+| java                   |       1 |                    20 | False          |
+| problem solving        |       1 |                    20 | False          |
+| scala                  |       1 |                    20 | False          |
+| generative ai          |       1 |                    20 | False          |
+| stakeholder management |       1 |                    20 | False          |
+| looker                 |       1 |                    20 | False          |
+| numpy                  |       1 |                    20 | False          |
+| pandas                 |       1 |                    20 | False          |
+| reinforcement learning |       1 |                    20 | False          |
+| statistics             |       1 |                    20 | False          |
 
 
 
@@ -136,19 +121,19 @@ _Based on 34 accumulated run(s)_
 
 |   priority | skill            |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:-----------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | communication    |             83.3 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          2 | collaboration    |             50   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          3 | machine learning |             50   | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          4 | python           |             50   | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          5 | sql              |             50   | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          6 | excel            |             33.3 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|          7 | java             |             33.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          8 | leadership       |             33.3 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          9 | power bi         |             33.3 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|         10 | tableau          |             33.3 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          1 | communication    |               80 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          2 | collaboration    |               40 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          3 | excel            |               40 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          4 | leadership       |               40 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          5 | machine learning |               40 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          6 | power bi         |               40 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          7 | python           |               40 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          8 | sql              |               40 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          9 | tableau          |               40 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|         10 | data warehouse   |               20 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 34 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 35 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

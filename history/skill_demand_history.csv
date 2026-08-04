@@ -480,3 +480,7 @@ run_timestamp,query,skill,count,percent_of_postings,posting_count
 2026-08-03T19:23:41,"ai, data scientist, data science",sql,1,20.0,5
 2026-08-03T19:23:41,"ai, data scientist, data science",tableau,1,20.0,5
 2026-08-03T19:23:41,"ai, data scientist, data science",generative ai,1,20.0,5
+2026-08-04T01:59:45,"ai, data scientist, data science",llm,2,66.7,3
+2026-08-04T01:59:45,"ai, data scientist, data science",python,2,66.7,3
+2026-08-04T01:59:45,"ai, data scientist, data science",collaboration,1,33.3,3
+2026-08-04T01:59:45,"ai, data scientist, data science",communication,1,33.3,3

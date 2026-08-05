@@ -2,7 +2,7 @@
 
 
 
-_Generated: 2026-08-04T19:23:29_
+_Generated: 2026-08-05T01:59:01_
 
 _Based on 48 accumulated run(s)_
 
@@ -24,7 +24,7 @@ _No data._
 
 _No data._
 
-### Product Engineer
+### LiftResume AI
 
 _No data._
 

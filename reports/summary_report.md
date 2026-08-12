@@ -2,38 +2,50 @@
 
 
 
-_Generated: 2026-08-09T18:31:23_
+_Generated: 2026-08-12T18:55:00_
 
-_Based on 62 accumulated run(s)_
+_Based on 63 accumulated run(s)_
 
 
 
 ## Top Skills Across All Postings
 
-_No skill data available._
+| skill         |   count |   percent_of_postings |
+|:--------------|--------:|----------------------:|
+| communication |       1 |                   100 |
+| statistics    |       1 |                   100 |
 
 
 
 ## Top Skills by Role
 
-### Cabin Crew Virtual Interviews PAN India
+### Aragon AI
 
-_No data._
+| skill         |   count |   percent_of_postings |
+|:--------------|--------:|----------------------:|
+| communication |       1 |                   100 |
+| statistics    |       1 |                   100 |
 
 
 
 ## Skill Gap Analysis
 
-_No gap analysis available._
+| skill         |   count |   percent_of_postings | already_have   |
+|:--------------|--------:|----------------------:|:---------------|
+| communication |       1 |                   100 | False          |
+| statistics    |       1 |                   100 | False          |
 
 
 
 ## Suggested Learning Roadmap
 
-_No roadmap generated — no skill gaps detected or no data available._
+|   priority | skill         |   demand_percent | category    | suggested_resource                                                         |
+|-----------:|:--------------|-----------------:|:------------|:---------------------------------------------------------------------------|
+|          1 | communication |              100 | soft_skills | Seek cross-functional project ownership and structured feedback loops.     |
+|          2 | statistics    |              100 | statistics  | Applied statistics course + practice designing/analyzing real experiments. |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 62 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 63 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

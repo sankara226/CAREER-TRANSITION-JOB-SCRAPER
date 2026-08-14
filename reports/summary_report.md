@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-08-13T18:55:18_
+_Generated: 2026-08-14T01:24:48_
 
-_Based on 67 accumulated run(s)_
+_Based on 68 accumulated run(s)_
 
 
 
@@ -12,8 +12,8 @@ _Based on 67 accumulated run(s)_
 
 | skill         |   count |   percent_of_postings |
 |:--------------|--------:|----------------------:|
-| communication |       1 |                   100 |
-| statistics    |       1 |                   100 |
+| communication |       2 |                   100 |
+| statistics    |       2 |                   100 |
 
 
 
@@ -26,14 +26,21 @@ _Based on 67 accumulated run(s)_
 | communication |       1 |                   100 |
 | statistics    |       1 |                   100 |
 
+### Jenni AI
+
+| skill         |   count |   percent_of_postings |
+|:--------------|--------:|----------------------:|
+| communication |       1 |                   100 |
+| statistics    |       1 |                   100 |
+
 
 
 ## Skill Gap Analysis
 
 | skill         |   count |   percent_of_postings | already_have   |
 |:--------------|--------:|----------------------:|:---------------|
-| communication |       1 |                   100 | False          |
-| statistics    |       1 |                   100 | False          |
+| communication |       2 |                   100 | False          |
+| statistics    |       2 |                   100 | False          |
 
 
 
@@ -48,4 +55,4 @@ _Based on 67 accumulated run(s)_
 
 ## Historical Trend
 
-Skill demand over time (last 67 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 68 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

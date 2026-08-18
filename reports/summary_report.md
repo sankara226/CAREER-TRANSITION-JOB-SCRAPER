@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-08-18T06:33:01_
+_Generated: 2026-08-18T12:34:01_
 
-_Based on 85 accumulated run(s)_
+_Based on 86 accumulated run(s)_
 
 
 
@@ -12,19 +12,12 @@ _Based on 85 accumulated run(s)_
 
 | skill         |   count |   percent_of_postings |
 |:--------------|--------:|----------------------:|
-| communication |       2 |                   100 |
-| statistics    |       2 |                   100 |
+| communication |       1 |                   100 |
+| statistics    |       1 |                   100 |
 
 
 
 ## Top Skills by Role
-
-### Aragon AI
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| communication |       1 |                   100 |
-| statistics    |       1 |                   100 |
 
 ### Jenni AI
 
@@ -39,8 +32,8 @@ _Based on 85 accumulated run(s)_
 
 | skill         |   count |   percent_of_postings | already_have   |
 |:--------------|--------:|----------------------:|:---------------|
-| communication |       2 |                   100 | False          |
-| statistics    |       2 |                   100 | False          |
+| communication |       1 |                   100 | False          |
+| statistics    |       1 |                   100 | False          |
 
 
 
@@ -55,4 +48,4 @@ _Based on 85 accumulated run(s)_
 
 ## Historical Trend
 
-Skill demand over time (last 85 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 86 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

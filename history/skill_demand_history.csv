@@ -574,3 +574,5 @@ run_timestamp,query,skill,count,percent_of_postings,posting_count
 2026-08-18T00:54:31,"ai, data scientist, data science",statistics,2,100.0,2
 2026-08-18T06:33:00,"ai, data scientist, data science",communication,2,100.0,2
 2026-08-18T06:33:00,"ai, data scientist, data science",statistics,2,100.0,2
+2026-08-18T12:34:01,"ai, data scientist, data science",communication,1,100.0,1
+2026-08-18T12:34:01,"ai, data scientist, data science",statistics,1,100.0,1

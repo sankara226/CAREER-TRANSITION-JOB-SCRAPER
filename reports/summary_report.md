@@ -2,7 +2,7 @@
 
 
 
-_Generated: 2026-08-18T12:34:01_
+_Generated: 2026-08-26T12:39:53_
 
 _Based on 86 accumulated run(s)_
 
@@ -10,39 +10,27 @@ _Based on 86 accumulated run(s)_
 
 ## Top Skills Across All Postings
 
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| communication |       1 |                   100 |
-| statistics    |       1 |                   100 |
+_No skill data available._
 
 
 
 ## Top Skills by Role
 
-### Jenni AI
+### Senior Backend Engineer Build AI Agents
 
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| communication |       1 |                   100 |
-| statistics    |       1 |                   100 |
+_No data._
 
 
 
 ## Skill Gap Analysis
 
-| skill         |   count |   percent_of_postings | already_have   |
-|:--------------|--------:|----------------------:|:---------------|
-| communication |       1 |                   100 | False          |
-| statistics    |       1 |                   100 | False          |
+_No gap analysis available._
 
 
 
 ## Suggested Learning Roadmap
 
-|   priority | skill         |   demand_percent | category    | suggested_resource                                                         |
-|-----------:|:--------------|-----------------:|:------------|:---------------------------------------------------------------------------|
-|          1 | communication |              100 | soft_skills | Seek cross-functional project ownership and structured feedback loops.     |
-|          2 | statistics    |              100 | statistics  | Applied statistics course + practice designing/analyzing real experiments. |
+_No roadmap generated — no skill gaps detected or no data available._
 
 
 

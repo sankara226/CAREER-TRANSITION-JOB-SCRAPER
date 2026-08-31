@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-08-31T12:27:17_
+_Generated: 2026-08-31T22:17:45_
 
-_Based on 98 accumulated run(s)_
+_Based on 99 accumulated run(s)_
 
 
 
@@ -12,14 +12,18 @@ _Based on 98 accumulated run(s)_
 
 | skill         |   count |   percent_of_postings |
 |:--------------|--------:|----------------------:|
-| agile         |       3 |                    75 |
-| collaboration |       3 |                    75 |
-| excel         |       3 |                    75 |
-| leadership    |       3 |                    75 |
+| agile         |       3 |                    60 |
+| collaboration |       3 |                    60 |
+| excel         |       3 |                    60 |
+| leadership    |       3 |                    60 |
 
 
 
 ## Top Skills by Role
+
+### AI Engineer Data APIs
+
+_No data._
 
 ### Course Director UX UI and AI
 
@@ -58,10 +62,10 @@ _No data._
 
 | skill         |   count |   percent_of_postings | already_have   |
 |:--------------|--------:|----------------------:|:---------------|
-| agile         |       3 |                    75 | False          |
-| collaboration |       3 |                    75 | False          |
-| excel         |       3 |                    75 | False          |
-| leadership    |       3 |                    75 | False          |
+| agile         |       3 |                    60 | False          |
+| collaboration |       3 |                    60 | False          |
+| excel         |       3 |                    60 | False          |
+| leadership    |       3 |                    60 | False          |
 
 
 
@@ -69,13 +73,13 @@ _No data._
 
 |   priority | skill         |   demand_percent | category         | suggested_resource                                                     |
 |-----------:|:--------------|-----------------:|:-----------------|:-----------------------------------------------------------------------|
-|          1 | agile         |               75 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
-|          2 | collaboration |               75 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
-|          3 | excel         |               75 | visualization_bi | Recreate dashboards from public datasets to build a portfolio.         |
-|          4 | leadership    |               75 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+|          1 | agile         |               60 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+|          2 | collaboration |               60 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+|          3 | excel         |               60 | visualization_bi | Recreate dashboards from public datasets to build a portfolio.         |
+|          4 | leadership    |               60 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 98 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 99 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

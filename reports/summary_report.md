@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-09-02T10:25:56_
+_Generated: 2026-09-02T15:49:28_
 
-_Based on 105 accumulated run(s)_
+_Based on 106 accumulated run(s)_
 
 
 
@@ -12,10 +12,10 @@ _Based on 105 accumulated run(s)_
 
 | skill         |   count |   percent_of_postings |
 |:--------------|--------:|----------------------:|
-| agile         |       3 |                    60 |
-| collaboration |       3 |                    60 |
-| excel         |       3 |                    60 |
-| leadership    |       3 |                    60 |
+| agile         |       3 |                    75 |
+| collaboration |       3 |                    75 |
+| excel         |       3 |                    75 |
+| leadership    |       3 |                    75 |
 
 
 
@@ -52,20 +52,16 @@ _No data._
 | excel         |       1 |                   100 |
 | leadership    |       1 |                   100 |
 
-### Senior Backend Engineer Build AI Agents
-
-_No data._
-
 
 
 ## Skill Gap Analysis
 
 | skill         |   count |   percent_of_postings | already_have   |
 |:--------------|--------:|----------------------:|:---------------|
-| agile         |       3 |                    60 | False          |
-| collaboration |       3 |                    60 | False          |
-| excel         |       3 |                    60 | False          |
-| leadership    |       3 |                    60 | False          |
+| agile         |       3 |                    75 | False          |
+| collaboration |       3 |                    75 | False          |
+| excel         |       3 |                    75 | False          |
+| leadership    |       3 |                    75 | False          |
 
 
 
@@ -73,13 +69,13 @@ _No data._
 
 |   priority | skill         |   demand_percent | category         | suggested_resource                                                     |
 |-----------:|:--------------|-----------------:|:-----------------|:-----------------------------------------------------------------------|
-|          1 | agile         |               60 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
-|          2 | collaboration |               60 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
-|          3 | excel         |               60 | visualization_bi | Recreate dashboards from public datasets to build a portfolio.         |
-|          4 | leadership    |               60 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+|          1 | agile         |               75 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+|          2 | collaboration |               75 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+|          3 | excel         |               75 | visualization_bi | Recreate dashboards from public datasets to build a portfolio.         |
+|          4 | leadership    |               75 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 105 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 106 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

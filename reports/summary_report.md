@@ -2,7 +2,7 @@
 
 
 
-_Generated: 2026-09-04T02:31:17_
+_Generated: 2026-09-04T10:23:27_
 
 _Based on 112 accumulated run(s)_
 
@@ -10,12 +10,7 @@ _Based on 112 accumulated run(s)_
 
 ## Top Skills Across All Postings
 
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| agile         |       1 |                    50 |
-| collaboration |       1 |                    50 |
-| excel         |       1 |                    50 |
-| leadership    |       1 |                    50 |
+_No skill data available._
 
 
 
@@ -25,36 +20,17 @@ _Based on 112 accumulated run(s)_
 
 _No data._
 
-### Course Director UX UI and AI
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| agile         |       1 |                   100 |
-| collaboration |       1 |                   100 |
-| excel         |       1 |                   100 |
-| leadership    |       1 |                   100 |
-
 
 
 ## Skill Gap Analysis
 
-| skill         |   count |   percent_of_postings | already_have   |
-|:--------------|--------:|----------------------:|:---------------|
-| agile         |       1 |                    50 | False          |
-| collaboration |       1 |                    50 | False          |
-| excel         |       1 |                    50 | False          |
-| leadership    |       1 |                    50 | False          |
+_No gap analysis available._
 
 
 
 ## Suggested Learning Roadmap
 
-|   priority | skill         |   demand_percent | category         | suggested_resource                                                     |
-|-----------:|:--------------|-----------------:|:-----------------|:-----------------------------------------------------------------------|
-|          1 | agile         |               50 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
-|          2 | collaboration |               50 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
-|          3 | excel         |               50 | visualization_bi | Recreate dashboards from public datasets to build a portfolio.         |
-|          4 | leadership    |               50 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+_No roadmap generated — no skill gaps detected or no data available._
 
 
 

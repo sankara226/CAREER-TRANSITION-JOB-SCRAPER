@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-09-03T20:23:55_
+_Generated: 2026-09-04T02:31:17_
 
-_Based on 111 accumulated run(s)_
+_Based on 112 accumulated run(s)_
 
 
 
@@ -12,10 +12,10 @@ _Based on 111 accumulated run(s)_
 
 | skill         |   count |   percent_of_postings |
 |:--------------|--------:|----------------------:|
-| agile         |       3 |                    75 |
-| collaboration |       3 |                    75 |
-| excel         |       3 |                    75 |
-| leadership    |       3 |                    75 |
+| agile         |       1 |                    50 |
+| collaboration |       1 |                    50 |
+| excel         |       1 |                    50 |
+| leadership    |       1 |                    50 |
 
 
 
@@ -34,34 +34,16 @@ _No data._
 | excel         |       1 |                   100 |
 | leadership    |       1 |                   100 |
 
-### Course Writer and Editor UX UI and AI
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| agile         |       1 |                   100 |
-| collaboration |       1 |                   100 |
-| excel         |       1 |                   100 |
-| leadership    |       1 |                   100 |
-
-### Education Designer UX UI and AI
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| agile         |       1 |                   100 |
-| collaboration |       1 |                   100 |
-| excel         |       1 |                   100 |
-| leadership    |       1 |                   100 |
-
 
 
 ## Skill Gap Analysis
 
 | skill         |   count |   percent_of_postings | already_have   |
 |:--------------|--------:|----------------------:|:---------------|
-| agile         |       3 |                    75 | False          |
-| collaboration |       3 |                    75 | False          |
-| excel         |       3 |                    75 | False          |
-| leadership    |       3 |                    75 | False          |
+| agile         |       1 |                    50 | False          |
+| collaboration |       1 |                    50 | False          |
+| excel         |       1 |                    50 | False          |
+| leadership    |       1 |                    50 | False          |
 
 
 
@@ -69,13 +51,13 @@ _No data._
 
 |   priority | skill         |   demand_percent | category         | suggested_resource                                                     |
 |-----------:|:--------------|-----------------:|:-----------------|:-----------------------------------------------------------------------|
-|          1 | agile         |               75 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
-|          2 | collaboration |               75 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
-|          3 | excel         |               75 | visualization_bi | Recreate dashboards from public datasets to build a portfolio.         |
-|          4 | leadership    |               75 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+|          1 | agile         |               50 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+|          2 | collaboration |               50 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
+|          3 | excel         |               50 | visualization_bi | Recreate dashboards from public datasets to build a portfolio.         |
+|          4 | leadership    |               50 | soft_skills      | Seek cross-functional project ownership and structured feedback loops. |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 111 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 112 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

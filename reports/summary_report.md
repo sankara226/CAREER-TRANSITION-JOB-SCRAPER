@@ -2,7 +2,7 @@
 
 
 
-_Generated: 2026-09-07T02:26:11_
+_Generated: 2026-09-07T11:21:48_
 
 _Based on 112 accumulated run(s)_
 
@@ -17,6 +17,10 @@ _No skill data available._
 ## Top Skills by Role
 
 ### AI Engineer Data APIs
+
+_No data._
+
+### AI Response Analyst
 
 _No data._
 

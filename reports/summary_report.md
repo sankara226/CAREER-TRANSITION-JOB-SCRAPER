@@ -2,15 +2,17 @@
 
 
 
-_Generated: 2026-09-08T20:35:18_
+_Generated: 2026-09-09T02:39:18_
 
-_Based on 112 accumulated run(s)_
+_Based on 113 accumulated run(s)_
 
 
 
 ## Top Skills Across All Postings
 
-_No skill data available._
+| skill   |   count |   percent_of_postings |
+|:--------|--------:|----------------------:|
+| llm     |       1 |                  33.3 |
 
 
 
@@ -24,20 +26,30 @@ _No data._
 
 _No data._
 
+### Social Comms
+
+| skill   |   count |   percent_of_postings |
+|:--------|--------:|----------------------:|
+| llm     |       1 |                   100 |
+
 
 
 ## Skill Gap Analysis
 
-_No gap analysis available._
+| skill   |   count |   percent_of_postings | already_have   |
+|:--------|--------:|----------------------:|:---------------|
+| llm     |       1 |                  33.3 | False          |
 
 
 
 ## Suggested Learning Roadmap
 
-_No roadmap generated — no skill gaps detected or no data available._
+|   priority | skill   |   demand_percent | category   | suggested_resource                                                              |
+|-----------:|:--------|-----------------:|:-----------|:--------------------------------------------------------------------------------|
+|          1 | llm     |             33.3 | ml_ai      | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 112 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 113 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

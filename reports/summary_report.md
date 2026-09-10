@@ -2,28 +2,27 @@
 
 
 
-_Generated: 2026-09-10T10:25:12_
+_Generated: 2026-09-10T15:41:52_
 
-_Based on 118 accumulated run(s)_
+_Based on 119 accumulated run(s)_
 
 
 
 ## Top Skills Across All Postings
 
-| skill                  |   count |   percent_of_postings |
-|:-----------------------|--------:|----------------------:|
-| communication          |       5 |                  38.5 |
-| collaboration          |       4 |                  30.8 |
-| excel                  |       4 |                  30.8 |
-| leadership             |       4 |                  30.8 |
-| agile                  |       3 |                  23.1 |
-| statistics             |       3 |                  23.1 |
-| llm                    |       1 |                   7.7 |
-| power bi               |       1 |                   7.7 |
-| python                 |       1 |                   7.7 |
-| sql                    |       1 |                   7.7 |
-| tableau                |       1 |                   7.7 |
-| stakeholder management |       1 |                   7.7 |
+| skill         |   count |   percent_of_postings |
+|:--------------|--------:|----------------------:|
+| collaboration |       4 |                  33.3 |
+| excel         |       4 |                  33.3 |
+| communication |       4 |                  33.3 |
+| agile         |       3 |                  25   |
+| leadership    |       3 |                  25   |
+| statistics    |       3 |                  25   |
+| llm           |       1 |                   8.3 |
+| power bi      |       1 |                   8.3 |
+| python        |       1 |                   8.3 |
+| sql           |       1 |                   8.3 |
+| tableau       |       1 |                   8.3 |
 
 
 
@@ -94,14 +93,6 @@ _No data._
 | excel         |       1 |                   100 |
 | leadership    |       1 |                   100 |
 
-### Human Resources Specialist
-
-| skill                  |   count |   percent_of_postings |
-|:-----------------------|--------:|----------------------:|
-| communication          |       1 |                   100 |
-| leadership             |       1 |                   100 |
-| stakeholder management |       1 |                   100 |
-
 ### Jenni AI
 
 | skill         |   count |   percent_of_postings |
@@ -123,20 +114,19 @@ _No data._
 
 ## Skill Gap Analysis
 
-| skill                  |   count |   percent_of_postings | already_have   |
-|:-----------------------|--------:|----------------------:|:---------------|
-| communication          |       5 |                  38.5 | False          |
-| collaboration          |       4 |                  30.8 | False          |
-| excel                  |       4 |                  30.8 | False          |
-| leadership             |       4 |                  30.8 | False          |
-| agile                  |       3 |                  23.1 | False          |
-| statistics             |       3 |                  23.1 | False          |
-| llm                    |       1 |                   7.7 | False          |
-| power bi               |       1 |                   7.7 | False          |
-| python                 |       1 |                   7.7 | False          |
-| sql                    |       1 |                   7.7 | False          |
-| tableau                |       1 |                   7.7 | False          |
-| stakeholder management |       1 |                   7.7 | False          |
+| skill         |   count |   percent_of_postings | already_have   |
+|:--------------|--------:|----------------------:|:---------------|
+| collaboration |       4 |                  33.3 | False          |
+| excel         |       4 |                  33.3 | False          |
+| communication |       4 |                  33.3 | False          |
+| agile         |       3 |                  25   | False          |
+| leadership    |       3 |                  25   | False          |
+| statistics    |       3 |                  25   | False          |
+| llm           |       1 |                   8.3 | False          |
+| power bi      |       1 |                   8.3 | False          |
+| python        |       1 |                   8.3 | False          |
+| sql           |       1 |                   8.3 | False          |
+| tableau       |       1 |                   8.3 | False          |
 
 
 
@@ -144,19 +134,19 @@ _No data._
 
 |   priority | skill         |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:--------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | communication |             38.5 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          2 | collaboration |             30.8 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          3 | excel         |             30.8 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|          4 | leadership    |             30.8 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          5 | agile         |             23.1 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          6 | statistics    |             23.1 | statistics            | Applied statistics course + practice designing/analyzing real experiments.      |
-|          7 | llm           |              7.7 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          8 | power bi      |              7.7 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|          9 | python        |              7.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|         10 | sql           |              7.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          1 | collaboration |             33.3 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          2 | excel         |             33.3 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          3 | communication |             33.3 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          4 | agile         |             25   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          5 | leadership    |             25   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          6 | statistics    |             25   | statistics            | Applied statistics course + practice designing/analyzing real experiments.      |
+|          7 | llm           |              8.3 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          8 | power bi      |              8.3 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          9 | python        |              8.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|         10 | sql           |              8.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 118 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 119 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

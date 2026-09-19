@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-09-19T10:09:13_
+_Generated: 2026-09-19T15:14:30_
 
-_Based on 154 accumulated run(s)_
+_Based on 155 accumulated run(s)_
 
 
 
@@ -12,24 +12,19 @@ _Based on 154 accumulated run(s)_
 
 | skill                  |   count |   percent_of_postings |
 |:-----------------------|--------:|----------------------:|
-| communication          |       5 |                  31.2 |
-| collaboration          |       5 |                  31.2 |
-| excel                  |       5 |                  31.2 |
-| leadership             |       4 |                  25   |
-| agile                  |       3 |                  18.8 |
-| llm                    |       2 |                  12.5 |
-| power bi               |       2 |                  12.5 |
-| python                 |       2 |                  12.5 |
-| sql                    |       2 |                  12.5 |
-| tableau                |       2 |                  12.5 |
-| statistics             |       2 |                  12.5 |
-| gcp                    |       1 |                   6.2 |
-| stakeholder management |       1 |                   6.2 |
-| looker                 |       1 |                   6.2 |
-| machine learning       |       1 |                   6.2 |
-| numpy                  |       1 |                   6.2 |
-| pandas                 |       1 |                   6.2 |
-| reinforcement learning |       1 |                   6.2 |
+| collaboration          |       5 |                  33.3 |
+| communication          |       4 |                  26.7 |
+| excel                  |       4 |                  26.7 |
+| leadership             |       4 |                  26.7 |
+| agile                  |       3 |                  20   |
+| llm                    |       2 |                  13.3 |
+| gcp                    |       1 |                   6.7 |
+| power bi               |       1 |                   6.7 |
+| python                 |       1 |                   6.7 |
+| sql                    |       1 |                   6.7 |
+| tableau                |       1 |                   6.7 |
+| statistics             |       1 |                   6.7 |
+| stakeholder management |       1 |                   6.7 |
 
 
 
@@ -117,21 +112,6 @@ _No data._
 | leadership             |       1 |                   100 |
 | stakeholder management |       1 |                   100 |
 
-### Junior Data Analyst
-
-| skill                  |   count |   percent_of_postings |
-|:-----------------------|--------:|----------------------:|
-| communication          |       1 |                   100 |
-| excel                  |       1 |                   100 |
-| looker                 |       1 |                   100 |
-| machine learning       |       1 |                   100 |
-| numpy                  |       1 |                   100 |
-| pandas                 |       1 |                   100 |
-| power bi               |       1 |                   100 |
-| python                 |       1 |                   100 |
-| reinforcement learning |       1 |                   100 |
-| sql                    |       1 |                   100 |
-
 ### Senior Backend Engineer Build AI Agents
 
 _No data._
@@ -155,24 +135,19 @@ _No data._
 
 | skill                  |   count |   percent_of_postings | already_have   |
 |:-----------------------|--------:|----------------------:|:---------------|
-| communication          |       5 |                  31.2 | False          |
-| collaboration          |       5 |                  31.2 | False          |
-| excel                  |       5 |                  31.2 | False          |
-| leadership             |       4 |                  25   | False          |
-| agile                  |       3 |                  18.8 | False          |
-| llm                    |       2 |                  12.5 | False          |
-| power bi               |       2 |                  12.5 | False          |
-| python                 |       2 |                  12.5 | False          |
-| sql                    |       2 |                  12.5 | False          |
-| tableau                |       2 |                  12.5 | False          |
-| statistics             |       2 |                  12.5 | False          |
-| gcp                    |       1 |                   6.2 | False          |
-| stakeholder management |       1 |                   6.2 | False          |
-| looker                 |       1 |                   6.2 | False          |
-| machine learning       |       1 |                   6.2 | False          |
-| numpy                  |       1 |                   6.2 | False          |
-| pandas                 |       1 |                   6.2 | False          |
-| reinforcement learning |       1 |                   6.2 | False          |
+| collaboration          |       5 |                  33.3 | False          |
+| communication          |       4 |                  26.7 | False          |
+| excel                  |       4 |                  26.7 | False          |
+| leadership             |       4 |                  26.7 | False          |
+| agile                  |       3 |                  20   | False          |
+| llm                    |       2 |                  13.3 | False          |
+| gcp                    |       1 |                   6.7 | False          |
+| power bi               |       1 |                   6.7 | False          |
+| python                 |       1 |                   6.7 | False          |
+| sql                    |       1 |                   6.7 | False          |
+| tableau                |       1 |                   6.7 | False          |
+| statistics             |       1 |                   6.7 | False          |
+| stakeholder management |       1 |                   6.7 | False          |
 
 
 
@@ -180,19 +155,19 @@ _No data._
 
 |   priority | skill         |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:--------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | communication |             31.2 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          2 | collaboration |             31.2 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          3 | excel         |             31.2 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|          4 | leadership    |             25   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          5 | agile         |             18.8 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          6 | llm           |             12.5 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          7 | power bi      |             12.5 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|          8 | python        |             12.5 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          9 | sql           |             12.5 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|         10 | tableau       |             12.5 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          1 | collaboration |             33.3 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          2 | communication |             26.7 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          3 | excel         |             26.7 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          4 | leadership    |             26.7 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          5 | agile         |             20   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          6 | llm           |             13.3 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          7 | gcp           |              6.7 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          8 | power bi      |              6.7 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          9 | python        |              6.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|         10 | sql           |              6.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 154 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 155 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-09-23T20:58:01_
+_Generated: 2026-09-24T02:45:37_
 
-_Based on 172 accumulated run(s)_
+_Based on 173 accumulated run(s)_
 
 
 
@@ -12,19 +12,19 @@ _Based on 172 accumulated run(s)_
 
 | skill          |   count |   percent_of_postings |
 |:---------------|--------:|----------------------:|
-| collaboration  |       4 |                  28.6 |
-| excel          |       4 |                  28.6 |
-| communication  |       3 |                  21.4 |
-| agile          |       3 |                  21.4 |
-| leadership     |       3 |                  21.4 |
-| llm            |       2 |                  14.3 |
-| data warehouse |       1 |                   7.1 |
-| gcp            |       1 |                   7.1 |
-| power bi       |       1 |                   7.1 |
-| python         |       1 |                   7.1 |
-| sql            |       1 |                   7.1 |
-| tableau        |       1 |                   7.1 |
-| statistics     |       1 |                   7.1 |
+| communication  |       4 |                  26.7 |
+| collaboration  |       4 |                  26.7 |
+| excel          |       4 |                  26.7 |
+| llm            |       3 |                  20   |
+| agile          |       3 |                  20   |
+| leadership     |       3 |                  20   |
+| data warehouse |       1 |                   6.7 |
+| gcp            |       1 |                   6.7 |
+| power bi       |       1 |                   6.7 |
+| python         |       1 |                   6.7 |
+| sql            |       1 |                   6.7 |
+| tableau        |       1 |                   6.7 |
+| statistics     |       1 |                   6.7 |
 
 
 
@@ -121,25 +121,32 @@ _No data._
 | communication |       1 |                   100 |
 | llm           |       1 |                   100 |
 
+### Technical Product Manager AI Stockbroking App
+
+| skill         |   count |   percent_of_postings |
+|:--------------|--------:|----------------------:|
+| communication |       1 |                   100 |
+| llm           |       1 |                   100 |
+
 
 
 ## Skill Gap Analysis
 
 | skill          |   count |   percent_of_postings | already_have   |
 |:---------------|--------:|----------------------:|:---------------|
-| collaboration  |       4 |                  28.6 | False          |
-| excel          |       4 |                  28.6 | False          |
-| communication  |       3 |                  21.4 | False          |
-| agile          |       3 |                  21.4 | False          |
-| leadership     |       3 |                  21.4 | False          |
-| llm            |       2 |                  14.3 | False          |
-| data warehouse |       1 |                   7.1 | False          |
-| gcp            |       1 |                   7.1 | False          |
-| power bi       |       1 |                   7.1 | False          |
-| python         |       1 |                   7.1 | False          |
-| sql            |       1 |                   7.1 | False          |
-| tableau        |       1 |                   7.1 | False          |
-| statistics     |       1 |                   7.1 | False          |
+| communication  |       4 |                  26.7 | False          |
+| collaboration  |       4 |                  26.7 | False          |
+| excel          |       4 |                  26.7 | False          |
+| llm            |       3 |                  20   | False          |
+| agile          |       3 |                  20   | False          |
+| leadership     |       3 |                  20   | False          |
+| data warehouse |       1 |                   6.7 | False          |
+| gcp            |       1 |                   6.7 | False          |
+| power bi       |       1 |                   6.7 | False          |
+| python         |       1 |                   6.7 | False          |
+| sql            |       1 |                   6.7 | False          |
+| tableau        |       1 |                   6.7 | False          |
+| statistics     |       1 |                   6.7 | False          |
 
 
 
@@ -147,19 +154,19 @@ _No data._
 
 |   priority | skill          |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:---------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | collaboration  |             28.6 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          2 | excel          |             28.6 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|          3 | communication  |             21.4 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          4 | agile          |             21.4 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          5 | leadership     |             21.4 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          6 | llm            |             14.3 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          7 | data warehouse |              7.1 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
-|          8 | gcp            |              7.1 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|          9 | power bi       |              7.1 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|         10 | python         |              7.1 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          1 | communication  |             26.7 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          2 | collaboration  |             26.7 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          3 | excel          |             26.7 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          4 | llm            |             20   | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          5 | agile          |             20   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          6 | leadership     |             20   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          7 | data warehouse |              6.7 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          8 | gcp            |              6.7 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          9 | power bi       |              6.7 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|         10 | python         |              6.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 172 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 173 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

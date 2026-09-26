@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-09-26T10:39:43_
+_Generated: 2026-09-26T15:34:34_
 
-_Based on 182 accumulated run(s)_
+_Based on 183 accumulated run(s)_
 
 
 
@@ -12,19 +12,17 @@ _Based on 182 accumulated run(s)_
 
 | skill          |   count |   percent_of_postings |
 |:---------------|--------:|----------------------:|
-| communication  |       5 |                  31.2 |
-| collaboration  |       4 |                  25   |
-| excel          |       4 |                  25   |
-| llm            |       3 |                  18.8 |
-| agile          |       3 |                  18.8 |
-| leadership     |       3 |                  18.8 |
-| data warehouse |       1 |                   6.2 |
-| gcp            |       1 |                   6.2 |
-| power bi       |       1 |                   6.2 |
-| python         |       1 |                   6.2 |
-| sql            |       1 |                   6.2 |
-| tableau        |       1 |                   6.2 |
-| statistics     |       1 |                   6.2 |
+| communication  |       5 |                  38.5 |
+| llm            |       3 |                  23.1 |
+| data warehouse |       1 |                   7.7 |
+| gcp            |       1 |                   7.7 |
+| collaboration  |       1 |                   7.7 |
+| excel          |       1 |                   7.7 |
+| power bi       |       1 |                   7.7 |
+| python         |       1 |                   7.7 |
+| sql            |       1 |                   7.7 |
+| tableau        |       1 |                   7.7 |
+| statistics     |       1 |                   7.7 |
 
 
 
@@ -52,24 +50,6 @@ _No data._
 
 _No data._
 
-### Course Director UX UI and AI
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| agile         |       1 |                   100 |
-| collaboration |       1 |                   100 |
-| excel         |       1 |                   100 |
-| leadership    |       1 |                   100 |
-
-### Course Writer and Editor UX UI and AI
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| agile         |       1 |                   100 |
-| collaboration |       1 |                   100 |
-| excel         |       1 |                   100 |
-| leadership    |       1 |                   100 |
-
 ### Data Analyst
 
 | skill         |   count |   percent_of_postings |
@@ -88,15 +68,6 @@ _No data._
 |:--------------|--------:|----------------------:|
 | communication |       1 |                   100 |
 | statistics    |       1 |                   100 |
-
-### Education Designer UX UI and AI
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| agile         |       1 |                   100 |
-| collaboration |       1 |                   100 |
-| excel         |       1 |                   100 |
-| leadership    |       1 |                   100 |
 
 ### Senior Backend Engineer Build AI Agents
 
@@ -140,19 +111,17 @@ _No data._
 
 | skill          |   count |   percent_of_postings | already_have   |
 |:---------------|--------:|----------------------:|:---------------|
-| communication  |       5 |                  31.2 | False          |
-| collaboration  |       4 |                  25   | False          |
-| excel          |       4 |                  25   | False          |
-| llm            |       3 |                  18.8 | False          |
-| agile          |       3 |                  18.8 | False          |
-| leadership     |       3 |                  18.8 | False          |
-| data warehouse |       1 |                   6.2 | False          |
-| gcp            |       1 |                   6.2 | False          |
-| power bi       |       1 |                   6.2 | False          |
-| python         |       1 |                   6.2 | False          |
-| sql            |       1 |                   6.2 | False          |
-| tableau        |       1 |                   6.2 | False          |
-| statistics     |       1 |                   6.2 | False          |
+| communication  |       5 |                  38.5 | False          |
+| llm            |       3 |                  23.1 | False          |
+| data warehouse |       1 |                   7.7 | False          |
+| gcp            |       1 |                   7.7 | False          |
+| collaboration  |       1 |                   7.7 | False          |
+| excel          |       1 |                   7.7 | False          |
+| power bi       |       1 |                   7.7 | False          |
+| python         |       1 |                   7.7 | False          |
+| sql            |       1 |                   7.7 | False          |
+| tableau        |       1 |                   7.7 | False          |
+| statistics     |       1 |                   7.7 | False          |
 
 
 
@@ -160,19 +129,19 @@ _No data._
 
 |   priority | skill          |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:---------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | communication  |             31.2 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          2 | collaboration  |             25   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          3 | excel          |             25   | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|          4 | llm            |             18.8 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          5 | agile          |             18.8 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          6 | leadership     |             18.8 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          7 | data warehouse |              6.2 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
-|          8 | gcp            |              6.2 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|          9 | power bi       |              6.2 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|         10 | python         |              6.2 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          1 | communication  |             38.5 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          2 | llm            |             23.1 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          3 | data warehouse |              7.7 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          4 | gcp            |              7.7 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          5 | collaboration  |              7.7 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          6 | excel          |              7.7 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          7 | power bi       |              7.7 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          8 | python         |              7.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          9 | sql            |              7.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|         10 | tableau        |              7.7 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 182 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 183 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

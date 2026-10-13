@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-10-13T00:02:50_
+_Generated: 2026-10-13T13:22:23_
 
-_Based on 240 accumulated run(s)_
+_Based on 241 accumulated run(s)_
 
 
 
@@ -36,12 +36,6 @@ _No data._
 
 _No data._
 
-### AI agent engineer
-
-| skill   |   count |   percent_of_postings |
-|:--------|--------:|----------------------:|
-| gcp     |       1 |                   100 |
-
 ### Business Development
 
 _No data._
@@ -64,6 +58,12 @@ _No data._
 |:--------------|--------:|----------------------:|
 | communication |       1 |                   100 |
 | statistics    |       1 |                   100 |
+
+### SI agent engineer
+
+| skill   |   count |   percent_of_postings |
+|:--------|--------:|----------------------:|
+| gcp     |       1 |                   100 |
 
 ### Senior Backend Engineer Build AI Agents
 
@@ -134,4 +134,4 @@ _No data._
 
 ## Historical Trend
 
-Skill demand over time (last 240 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 241 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

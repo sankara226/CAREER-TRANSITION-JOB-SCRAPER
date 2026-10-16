@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-10-16T15:56:40_
+_Generated: 2026-10-16T20:24:00_
 
-_Based on 253 accumulated run(s)_
+_Based on 254 accumulated run(s)_
 
 
 
@@ -12,16 +12,17 @@ _Based on 253 accumulated run(s)_
 
 | skill          |   count |   percent_of_postings |
 |:---------------|--------:|----------------------:|
-| communication  |       5 |                  45.5 |
-| llm            |       2 |                  18.2 |
-| data warehouse |       1 |                   9.1 |
-| collaboration  |       1 |                   9.1 |
-| excel          |       1 |                   9.1 |
-| power bi       |       1 |                   9.1 |
-| python         |       1 |                   9.1 |
-| sql            |       1 |                   9.1 |
-| tableau        |       1 |                   9.1 |
-| statistics     |       1 |                   9.1 |
+| communication  |       5 |                    50 |
+| llm            |       3 |                    30 |
+| python         |       2 |                    20 |
+| aws            |       1 |                    10 |
+| java           |       1 |                    10 |
+| data warehouse |       1 |                    10 |
+| collaboration  |       1 |                    10 |
+| excel          |       1 |                    10 |
+| power bi       |       1 |                    10 |
+| sql            |       1 |                    10 |
+| tableau        |       1 |                    10 |
 
 
 
@@ -39,10 +40,6 @@ _No data._
 
 _No data._
 
-### Business Development
-
-_No data._
-
 ### Data Analyst
 
 | skill         |   count |   percent_of_postings |
@@ -55,13 +52,6 @@ _No data._
 | sql           |       1 |                   100 |
 | tableau       |       1 |                   100 |
 
-### Data Analyst Assistant
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| communication |       1 |                   100 |
-| statistics    |       1 |                   100 |
-
 ### Senior Backend Engineer Build AI Agents
 
 _No data._
@@ -71,6 +61,16 @@ _No data._
 | skill          |   count |   percent_of_postings |
 |:---------------|--------:|----------------------:|
 | data warehouse |       1 |                   100 |
+
+### Senior Software Engineer II Applied AI
+
+| skill         |   count |   percent_of_postings |
+|:--------------|--------:|----------------------:|
+| aws           |       1 |                   100 |
+| communication |       1 |                   100 |
+| java          |       1 |                   100 |
+| llm           |       1 |                   100 |
+| python        |       1 |                   100 |
 
 ### Technical Product Lead AI Finance App
 
@@ -98,16 +98,17 @@ _No data._
 
 | skill          |   count |   percent_of_postings | already_have   |
 |:---------------|--------:|----------------------:|:---------------|
-| communication  |       5 |                  45.5 | False          |
-| llm            |       2 |                  18.2 | False          |
-| data warehouse |       1 |                   9.1 | False          |
-| collaboration  |       1 |                   9.1 | False          |
-| excel          |       1 |                   9.1 | False          |
-| power bi       |       1 |                   9.1 | False          |
-| python         |       1 |                   9.1 | False          |
-| sql            |       1 |                   9.1 | False          |
-| tableau        |       1 |                   9.1 | False          |
-| statistics     |       1 |                   9.1 | False          |
+| communication  |       5 |                    50 | False          |
+| llm            |       3 |                    30 | False          |
+| python         |       2 |                    20 | False          |
+| aws            |       1 |                    10 | False          |
+| java           |       1 |                    10 | False          |
+| data warehouse |       1 |                    10 | False          |
+| collaboration  |       1 |                    10 | False          |
+| excel          |       1 |                    10 | False          |
+| power bi       |       1 |                    10 | False          |
+| sql            |       1 |                    10 | False          |
+| tableau        |       1 |                    10 | False          |
 
 
 
@@ -115,19 +116,19 @@ _No data._
 
 |   priority | skill          |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:---------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | communication  |             45.5 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          2 | llm            |             18.2 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          3 | data warehouse |              9.1 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
-|          4 | collaboration  |              9.1 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          5 | excel          |              9.1 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|          6 | power bi       |              9.1 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|          7 | python         |              9.1 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          8 | sql            |              9.1 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          9 | tableau        |              9.1 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
-|         10 | statistics     |              9.1 | statistics            | Applied statistics course + practice designing/analyzing real experiments.      |
+|          1 | communication  |               50 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          2 | llm            |               30 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          3 | python         |               20 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          4 | aws            |               10 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          5 | java           |               10 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          6 | data warehouse |               10 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          7 | collaboration  |               10 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          8 | excel          |               10 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|          9 | power bi       |               10 | visualization_bi      | Recreate dashboards from public datasets to build a portfolio.                  |
+|         10 | sql            |               10 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 253 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 254 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-10-17T19:58:35_
+_Generated: 2026-10-18T02:39:26_
 
-_Based on 258 accumulated run(s)_
+_Based on 259 accumulated run(s)_
 
 
 
@@ -12,16 +12,18 @@ _Based on 258 accumulated run(s)_
 
 | skill            |   count |   percent_of_postings |
 |:-----------------|--------:|----------------------:|
-| communication    |       4 |                  44.4 |
-| llm              |       3 |                  33.3 |
-| python           |       2 |                  22.2 |
-| bigquery         |       1 |                  11.1 |
-| machine learning |       1 |                  11.1 |
-| regression       |       1 |                  11.1 |
-| sql              |       1 |                  11.1 |
-| aws              |       1 |                  11.1 |
-| java             |       1 |                  11.1 |
-| data warehouse   |       1 |                  11.1 |
+| communication    |       4 |                    40 |
+| python           |       3 |                    30 |
+| llm              |       3 |                    30 |
+| java             |       2 |                    20 |
+| c++              |       1 |                    10 |
+| docker           |       1 |                    10 |
+| bigquery         |       1 |                    10 |
+| machine learning |       1 |                    10 |
+| regression       |       1 |                    10 |
+| sql              |       1 |                    10 |
+| aws              |       1 |                    10 |
+| data warehouse   |       1 |                    10 |
 
 
 
@@ -65,6 +67,15 @@ _No data._
 | llm           |       1 |                   100 |
 | python        |       1 |                   100 |
 
+### Software Engineer AI Coding Tasks
+
+| skill   |   count |   percent_of_postings |
+|:--------|--------:|----------------------:|
+| c++     |       1 |                   100 |
+| docker  |       1 |                   100 |
+| java    |       1 |                   100 |
+| python  |       1 |                   100 |
+
 ### Technical Product Lead AI Finance App
 
 | skill         |   count |   percent_of_postings |
@@ -91,16 +102,18 @@ _No data._
 
 | skill            |   count |   percent_of_postings | already_have   |
 |:-----------------|--------:|----------------------:|:---------------|
-| communication    |       4 |                  44.4 | False          |
-| llm              |       3 |                  33.3 | False          |
-| python           |       2 |                  22.2 | False          |
-| bigquery         |       1 |                  11.1 | False          |
-| machine learning |       1 |                  11.1 | False          |
-| regression       |       1 |                  11.1 | False          |
-| sql              |       1 |                  11.1 | False          |
-| aws              |       1 |                  11.1 | False          |
-| java             |       1 |                  11.1 | False          |
-| data warehouse   |       1 |                  11.1 | False          |
+| communication    |       4 |                    40 | False          |
+| python           |       3 |                    30 | False          |
+| llm              |       3 |                    30 | False          |
+| java             |       2 |                    20 | False          |
+| c++              |       1 |                    10 | False          |
+| docker           |       1 |                    10 | False          |
+| bigquery         |       1 |                    10 | False          |
+| machine learning |       1 |                    10 | False          |
+| regression       |       1 |                    10 | False          |
+| sql              |       1 |                    10 | False          |
+| aws              |       1 |                    10 | False          |
+| data warehouse   |       1 |                    10 | False          |
 
 
 
@@ -108,19 +121,19 @@ _No data._
 
 |   priority | skill            |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:-----------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | communication    |             44.4 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          2 | llm              |             33.3 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          3 | python           |             22.2 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          4 | bigquery         |             11.1 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|          5 | machine learning |             11.1 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          6 | regression       |             11.1 | statistics            | Applied statistics course + practice designing/analyzing real experiments.      |
-|          7 | sql              |             11.1 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          8 | aws              |             11.1 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|          9 | java             |             11.1 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|         10 | data warehouse   |             11.1 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          1 | communication    |               40 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          2 | python           |               30 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          3 | llm              |               30 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          4 | java             |               20 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          5 | c++              |               10 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          6 | docker           |               10 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          7 | bigquery         |               10 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          8 | machine learning |               10 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          9 | regression       |               10 | statistics            | Applied statistics course + practice designing/analyzing real experiments.      |
+|         10 | sql              |               10 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 258 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 259 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

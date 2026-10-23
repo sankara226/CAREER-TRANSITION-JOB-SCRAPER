@@ -2,28 +2,35 @@
 
 
 
-_Generated: 2026-10-23T10:53:28_
+_Generated: 2026-10-23T16:17:27_
 
-_Based on 278 accumulated run(s)_
+_Based on 279 accumulated run(s)_
 
 
 
 ## Top Skills Across All Postings
 
-| skill            |   count |   percent_of_postings |
-|:-----------------|--------:|----------------------:|
-| communication    |       4 |                    40 |
-| python           |       3 |                    30 |
-| llm              |       3 |                    30 |
-| java             |       2 |                    20 |
-| c++              |       1 |                    10 |
-| docker           |       1 |                    10 |
-| bigquery         |       1 |                    10 |
-| machine learning |       1 |                    10 |
-| regression       |       1 |                    10 |
-| sql              |       1 |                    10 |
-| aws              |       1 |                    10 |
-| data warehouse   |       1 |                    10 |
+| skill              |   count |   percent_of_postings |
+|:-------------------|--------:|----------------------:|
+| llm                |       4 |                  36.4 |
+| python             |       4 |                  36.4 |
+| communication      |       4 |                  36.4 |
+| java               |       3 |                  27.3 |
+| aws                |       2 |                  18.2 |
+| c++                |       2 |                  18.2 |
+| machine learning   |       2 |                  18.2 |
+| sql                |       2 |                  18.2 |
+| azure              |       1 |                   9.1 |
+| gcp                |       1 |                   9.1 |
+| javascript         |       1 |                   9.1 |
+| kubernetes         |       1 |                   9.1 |
+| mlops              |       1 |                   9.1 |
+| project management |       1 |                   9.1 |
+| scala              |       1 |                   9.1 |
+| docker             |       1 |                   9.1 |
+| bigquery           |       1 |                   9.1 |
+| regression         |       1 |                   9.1 |
+| data warehouse     |       1 |                   9.1 |
 
 
 
@@ -50,6 +57,21 @@ _No data._
 ### Senior Backend Engineer Build AI Agents
 
 _No data._
+
+### Senior DevOps Engineer
+
+| skill            |   count |   percent_of_postings |
+|:-----------------|--------:|----------------------:|
+| aws              |       1 |                   100 |
+| azure            |       1 |                   100 |
+| c++              |       1 |                   100 |
+| gcp              |       1 |                   100 |
+| java             |       1 |                   100 |
+| javascript       |       1 |                   100 |
+| kubernetes       |       1 |                   100 |
+| llm              |       1 |                   100 |
+| machine learning |       1 |                   100 |
+| mlops            |       1 |                   100 |
 
 ### Senior Growth Product Manager AI Native
 
@@ -100,20 +122,27 @@ _No data._
 
 ## Skill Gap Analysis
 
-| skill            |   count |   percent_of_postings | already_have   |
-|:-----------------|--------:|----------------------:|:---------------|
-| communication    |       4 |                    40 | False          |
-| python           |       3 |                    30 | False          |
-| llm              |       3 |                    30 | False          |
-| java             |       2 |                    20 | False          |
-| c++              |       1 |                    10 | False          |
-| docker           |       1 |                    10 | False          |
-| bigquery         |       1 |                    10 | False          |
-| machine learning |       1 |                    10 | False          |
-| regression       |       1 |                    10 | False          |
-| sql              |       1 |                    10 | False          |
-| aws              |       1 |                    10 | False          |
-| data warehouse   |       1 |                    10 | False          |
+| skill              |   count |   percent_of_postings | already_have   |
+|:-------------------|--------:|----------------------:|:---------------|
+| llm                |       4 |                  36.4 | False          |
+| python             |       4 |                  36.4 | False          |
+| communication      |       4 |                  36.4 | False          |
+| java               |       3 |                  27.3 | False          |
+| aws                |       2 |                  18.2 | False          |
+| c++                |       2 |                  18.2 | False          |
+| machine learning   |       2 |                  18.2 | False          |
+| sql                |       2 |                  18.2 | False          |
+| azure              |       1 |                   9.1 | False          |
+| gcp                |       1 |                   9.1 | False          |
+| javascript         |       1 |                   9.1 | False          |
+| kubernetes         |       1 |                   9.1 | False          |
+| mlops              |       1 |                   9.1 | False          |
+| project management |       1 |                   9.1 | False          |
+| scala              |       1 |                   9.1 | False          |
+| docker             |       1 |                   9.1 | False          |
+| bigquery           |       1 |                   9.1 | False          |
+| regression         |       1 |                   9.1 | False          |
+| data warehouse     |       1 |                   9.1 | False          |
 
 
 
@@ -121,19 +150,19 @@ _No data._
 
 |   priority | skill            |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:-----------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | communication    |               40 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          2 | python           |               30 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          3 | llm              |               30 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          4 | java             |               20 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          5 | c++              |               10 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          6 | docker           |               10 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
-|          7 | bigquery         |               10 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|          8 | machine learning |               10 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          9 | regression       |               10 | statistics            | Applied statistics course + practice designing/analyzing real experiments.      |
-|         10 | sql              |               10 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          1 | llm              |             36.4 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          2 | python           |             36.4 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          3 | communication    |             36.4 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          4 | java             |             27.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          5 | aws              |             18.2 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          6 | c++              |             18.2 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          7 | machine learning |             18.2 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          8 | sql              |             18.2 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          9 | azure            |              9.1 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|         10 | gcp              |              9.1 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 278 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 279 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

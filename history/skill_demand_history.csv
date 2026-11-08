@@ -3725,3 +3725,23 @@ run_timestamp,query,skill,count,percent_of_postings,posting_count
 2026-11-07T21:20:22,"ai, data scientist, data science",azure,1,6.7,15
 2026-11-07T21:20:22,"ai, data scientist, data science",kubernetes,1,6.7,15
 2026-11-07T21:20:22,"ai, data scientist, data science",mlops,1,6.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",llm,7,46.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",python,7,46.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",communication,6,40.0,15
+2026-11-08T03:55:54,"ai, data scientist, data science",docker,4,26.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",aws,3,20.0,15
+2026-11-08T03:55:54,"ai, data scientist, data science",c++,3,20.0,15
+2026-11-08T03:55:54,"ai, data scientist, data science",sql,3,20.0,15
+2026-11-08T03:55:54,"ai, data scientist, data science",machine learning,3,20.0,15
+2026-11-08T03:55:54,"ai, data scientist, data science",java,3,20.0,15
+2026-11-08T03:55:54,"ai, data scientist, data science",azure,2,13.3,15
+2026-11-08T03:55:54,"ai, data scientist, data science",kubernetes,2,13.3,15
+2026-11-08T03:55:54,"ai, data scientist, data science",gcp,2,13.3,15
+2026-11-08T03:55:54,"ai, data scientist, data science",javascript,2,13.3,15
+2026-11-08T03:55:54,"ai, data scientist, data science",ci/cd,1,6.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",collaboration,1,6.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",kafka,1,6.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",leadership,1,6.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",excel,1,6.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",data pipeline,1,6.7,15
+2026-11-08T03:55:54,"ai, data scientist, data science",regression,1,6.7,15

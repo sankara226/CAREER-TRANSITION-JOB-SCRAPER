@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-11-10T14:08:53_
+_Generated: 2026-11-10T22:44:16_
 
-_Based on 336 accumulated run(s)_
+_Based on 337 accumulated run(s)_
 
 
 
@@ -12,26 +12,26 @@ _Based on 336 accumulated run(s)_
 
 | skill            |   count |   percent_of_postings |
 |:-----------------|--------:|----------------------:|
-| llm              |       7 |                  50   |
-| communication    |       6 |                  42.9 |
-| python           |       6 |                  42.9 |
-| aws              |       3 |                  21.4 |
-| docker           |       3 |                  21.4 |
-| sql              |       3 |                  21.4 |
-| machine learning |       3 |                  21.4 |
-| azure            |       2 |                  14.3 |
-| c++              |       2 |                  14.3 |
-| kubernetes       |       2 |                  14.3 |
-| gcp              |       2 |                  14.3 |
-| javascript       |       2 |                  14.3 |
-| java             |       2 |                  14.3 |
-| ci/cd            |       1 |                   7.1 |
-| collaboration    |       1 |                   7.1 |
-| kafka            |       1 |                   7.1 |
-| leadership       |       1 |                   7.1 |
-| excel            |       1 |                   7.1 |
-| data pipeline    |       1 |                   7.1 |
-| regression       |       1 |                   7.1 |
+| llm              |       8 |                  53.3 |
+| communication    |       7 |                  46.7 |
+| python           |       7 |                  46.7 |
+| docker           |       4 |                  26.7 |
+| sql              |       4 |                  26.7 |
+| azure            |       3 |                  20   |
+| aws              |       3 |                  20   |
+| machine learning |       3 |                  20   |
+| collaboration    |       2 |                  13.3 |
+| c++              |       2 |                  13.3 |
+| kubernetes       |       2 |                  13.3 |
+| gcp              |       2 |                  13.3 |
+| javascript       |       2 |                  13.3 |
+| java             |       2 |                  13.3 |
+| pandas           |       1 |                   6.7 |
+| plotly           |       1 |                   6.7 |
+| ci/cd            |       1 |                   6.7 |
+| kafka            |       1 |                   6.7 |
+| leadership       |       1 |                   6.7 |
+| excel            |       1 |                   6.7 |
 
 
 
@@ -90,6 +90,20 @@ _No data._
 | excel   |       1 |                   100 |
 | python  |       1 |                   100 |
 | sql     |       1 |                   100 |
+
+### Senior Agentic AI Engineer NDA
+
+| skill         |   count |   percent_of_postings |
+|:--------------|--------:|----------------------:|
+| azure         |       1 |                   100 |
+| collaboration |       1 |                   100 |
+| communication |       1 |                   100 |
+| docker        |       1 |                   100 |
+| llm           |       1 |                   100 |
+| pandas        |       1 |                   100 |
+| plotly        |       1 |                   100 |
+| python        |       1 |                   100 |
+| sql           |       1 |                   100 |
 
 ### Senior Backend Engineer Build AI Agents
 
@@ -160,26 +174,26 @@ _No data._
 
 | skill            |   count |   percent_of_postings | already_have   |
 |:-----------------|--------:|----------------------:|:---------------|
-| llm              |       7 |                  50   | False          |
-| communication    |       6 |                  42.9 | False          |
-| python           |       6 |                  42.9 | False          |
-| aws              |       3 |                  21.4 | False          |
-| docker           |       3 |                  21.4 | False          |
-| sql              |       3 |                  21.4 | False          |
-| machine learning |       3 |                  21.4 | False          |
-| azure            |       2 |                  14.3 | False          |
-| c++              |       2 |                  14.3 | False          |
-| kubernetes       |       2 |                  14.3 | False          |
-| gcp              |       2 |                  14.3 | False          |
-| javascript       |       2 |                  14.3 | False          |
-| java             |       2 |                  14.3 | False          |
-| ci/cd            |       1 |                   7.1 | False          |
-| collaboration    |       1 |                   7.1 | False          |
-| kafka            |       1 |                   7.1 | False          |
-| leadership       |       1 |                   7.1 | False          |
-| excel            |       1 |                   7.1 | False          |
-| data pipeline    |       1 |                   7.1 | False          |
-| regression       |       1 |                   7.1 | False          |
+| llm              |       8 |                  53.3 | False          |
+| communication    |       7 |                  46.7 | False          |
+| python           |       7 |                  46.7 | False          |
+| docker           |       4 |                  26.7 | False          |
+| sql              |       4 |                  26.7 | False          |
+| azure            |       3 |                  20   | False          |
+| aws              |       3 |                  20   | False          |
+| machine learning |       3 |                  20   | False          |
+| collaboration    |       2 |                  13.3 | False          |
+| c++              |       2 |                  13.3 | False          |
+| kubernetes       |       2 |                  13.3 | False          |
+| gcp              |       2 |                  13.3 | False          |
+| javascript       |       2 |                  13.3 | False          |
+| java             |       2 |                  13.3 | False          |
+| pandas           |       1 |                   6.7 | False          |
+| plotly           |       1 |                   6.7 | False          |
+| ci/cd            |       1 |                   6.7 | False          |
+| kafka            |       1 |                   6.7 | False          |
+| leadership       |       1 |                   6.7 | False          |
+| excel            |       1 |                   6.7 | False          |
 
 
 
@@ -187,19 +201,19 @@ _No data._
 
 |   priority | skill            |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:-----------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | llm              |             50   | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          2 | communication    |             42.9 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          3 | python           |             42.9 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          4 | aws              |             21.4 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|          5 | docker           |             21.4 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
-|          6 | sql              |             21.4 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          7 | machine learning |             21.4 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          8 | azure            |             14.3 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|          9 | c++              |             14.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|         10 | kubernetes       |             14.3 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          1 | llm              |             53.3 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          2 | communication    |             46.7 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          3 | python           |             46.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          4 | docker           |             26.7 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          5 | sql              |             26.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          6 | azure            |             20   | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          7 | aws              |             20   | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          8 | machine learning |             20   | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          9 | collaboration    |             13.3 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|         10 | c++              |             13.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 336 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 337 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

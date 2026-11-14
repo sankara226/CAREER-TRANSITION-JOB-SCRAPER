@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-11-14T12:51:29_
+_Generated: 2026-11-14T21:54:10_
 
-_Based on 348 accumulated run(s)_
+_Based on 349 accumulated run(s)_
 
 
 
@@ -12,26 +12,26 @@ _Based on 348 accumulated run(s)_
 
 | skill            |   count |   percent_of_postings |
 |:-----------------|--------:|----------------------:|
-| llm              |       8 |                  50   |
-| communication    |       7 |                  43.8 |
-| python           |       7 |                  43.8 |
-| docker           |       4 |                  25   |
-| sql              |       4 |                  25   |
-| collaboration    |       3 |                  18.8 |
-| javascript       |       3 |                  18.8 |
-| azure            |       3 |                  18.8 |
-| aws              |       3 |                  18.8 |
-| machine learning |       3 |                  18.8 |
-| c++              |       2 |                  12.5 |
-| kubernetes       |       2 |                  12.5 |
-| gcp              |       2 |                  12.5 |
-| java             |       2 |                  12.5 |
-| pandas           |       1 |                   6.2 |
-| plotly           |       1 |                   6.2 |
-| ci/cd            |       1 |                   6.2 |
-| kafka            |       1 |                   6.2 |
-| leadership       |       1 |                   6.2 |
-| excel            |       1 |                   6.2 |
+| llm              |       8 |                  53.3 |
+| communication    |       7 |                  46.7 |
+| python           |       7 |                  46.7 |
+| docker           |       4 |                  26.7 |
+| sql              |       4 |                  26.7 |
+| collaboration    |       3 |                  20   |
+| javascript       |       3 |                  20   |
+| azure            |       3 |                  20   |
+| aws              |       3 |                  20   |
+| machine learning |       3 |                  20   |
+| c++              |       2 |                  13.3 |
+| kubernetes       |       2 |                  13.3 |
+| gcp              |       2 |                  13.3 |
+| java             |       2 |                  13.3 |
+| pandas           |       1 |                   6.7 |
+| plotly           |       1 |                   6.7 |
+| ci/cd            |       1 |                   6.7 |
+| kafka            |       1 |                   6.7 |
+| leadership       |       1 |                   6.7 |
+| excel            |       1 |                   6.7 |
 
 
 
@@ -69,10 +69,6 @@ _No data._
 | machine learning |       1 |                   100 |
 | python           |       1 |                   100 |
 | pytorch          |       1 |                   100 |
-
-### AI Trainer
-
-_No data._
 
 ### Feltsense AI Engineer
 
@@ -181,26 +177,26 @@ _No data._
 
 | skill            |   count |   percent_of_postings | already_have   |
 |:-----------------|--------:|----------------------:|:---------------|
-| llm              |       8 |                  50   | False          |
-| communication    |       7 |                  43.8 | False          |
-| python           |       7 |                  43.8 | False          |
-| docker           |       4 |                  25   | False          |
-| sql              |       4 |                  25   | False          |
-| collaboration    |       3 |                  18.8 | False          |
-| javascript       |       3 |                  18.8 | False          |
-| azure            |       3 |                  18.8 | False          |
-| aws              |       3 |                  18.8 | False          |
-| machine learning |       3 |                  18.8 | False          |
-| c++              |       2 |                  12.5 | False          |
-| kubernetes       |       2 |                  12.5 | False          |
-| gcp              |       2 |                  12.5 | False          |
-| java             |       2 |                  12.5 | False          |
-| pandas           |       1 |                   6.2 | False          |
-| plotly           |       1 |                   6.2 | False          |
-| ci/cd            |       1 |                   6.2 | False          |
-| kafka            |       1 |                   6.2 | False          |
-| leadership       |       1 |                   6.2 | False          |
-| excel            |       1 |                   6.2 | False          |
+| llm              |       8 |                  53.3 | False          |
+| communication    |       7 |                  46.7 | False          |
+| python           |       7 |                  46.7 | False          |
+| docker           |       4 |                  26.7 | False          |
+| sql              |       4 |                  26.7 | False          |
+| collaboration    |       3 |                  20   | False          |
+| javascript       |       3 |                  20   | False          |
+| azure            |       3 |                  20   | False          |
+| aws              |       3 |                  20   | False          |
+| machine learning |       3 |                  20   | False          |
+| c++              |       2 |                  13.3 | False          |
+| kubernetes       |       2 |                  13.3 | False          |
+| gcp              |       2 |                  13.3 | False          |
+| java             |       2 |                  13.3 | False          |
+| pandas           |       1 |                   6.7 | False          |
+| plotly           |       1 |                   6.7 | False          |
+| ci/cd            |       1 |                   6.7 | False          |
+| kafka            |       1 |                   6.7 | False          |
+| leadership       |       1 |                   6.7 | False          |
+| excel            |       1 |                   6.7 | False          |
 
 
 
@@ -208,19 +204,19 @@ _No data._
 
 |   priority | skill            |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:-----------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | llm              |             50   | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          2 | communication    |             43.8 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          3 | python           |             43.8 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          4 | docker           |             25   | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
-|          5 | sql              |             25   | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          6 | collaboration    |             18.8 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          7 | javascript       |             18.8 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          8 | azure            |             18.8 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|          9 | aws              |             18.8 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|         10 | machine learning |             18.8 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          1 | llm              |             53.3 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          2 | communication    |             46.7 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          3 | python           |             46.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          4 | docker           |             26.7 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          5 | sql              |             26.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          6 | collaboration    |             20   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          7 | javascript       |             20   | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          8 | azure            |             20   | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          9 | aws              |             20   | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|         10 | machine learning |             20   | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 348 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 349 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

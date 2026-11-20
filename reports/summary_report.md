@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-11-20T14:46:16_
+_Generated: 2026-11-20T23:35:21_
 
-_Based on 363 accumulated run(s)_
+_Based on 364 accumulated run(s)_
 
 
 
@@ -12,26 +12,26 @@ _Based on 363 accumulated run(s)_
 
 | skill            |   count |   percent_of_postings |
 |:-----------------|--------:|----------------------:|
-| python           |       7 |                  63.6 |
-| llm              |       5 |                  45.5 |
-| docker           |       4 |                  36.4 |
-| communication    |       4 |                  36.4 |
-| sql              |       4 |                  36.4 |
-| java             |       3 |                  27.3 |
-| javascript       |       3 |                  27.3 |
-| machine learning |       3 |                  27.3 |
-| c++              |       2 |                  18.2 |
-| collaboration    |       2 |                  18.2 |
-| azure            |       2 |                  18.2 |
-| gcp              |       2 |                  18.2 |
-| aws              |       2 |                  18.2 |
-| pandas           |       1 |                   9.1 |
-| plotly           |       1 |                   9.1 |
-| leadership       |       1 |                   9.1 |
-| excel            |       1 |                   9.1 |
-| data pipeline    |       1 |                   9.1 |
-| regression       |       1 |                   9.1 |
-| computer vision  |       1 |                   9.1 |
+| python           |       5 |                    50 |
+| communication    |       4 |                    40 |
+| docker           |       4 |                    40 |
+| machine learning |       3 |                    30 |
+| llm              |       3 |                    30 |
+| sql              |       3 |                    30 |
+| leadership       |       2 |                    20 |
+| collaboration    |       2 |                    20 |
+| javascript       |       2 |                    20 |
+| agile            |       1 |                    10 |
+| c++              |       1 |                    10 |
+| java             |       1 |                    10 |
+| azure            |       1 |                    10 |
+| pandas           |       1 |                    10 |
+| plotly           |       1 |                    10 |
+| gcp              |       1 |                    10 |
+| excel            |       1 |                    10 |
+| data pipeline    |       1 |                    10 |
+| regression       |       1 |                    10 |
+| computer vision  |       1 |                    10 |
 
 
 
@@ -50,6 +50,15 @@ _No data._
 | machine learning |       1 |                   100 |
 | python           |       1 |                   100 |
 | pytorch          |       1 |                   100 |
+
+### Engineering Manager, External Search & AI Optimization
+
+| skill            |   count |   percent_of_postings |
+|:-----------------|--------:|----------------------:|
+| agile            |       1 |                   100 |
+| communication    |       1 |                   100 |
+| leadership       |       1 |                   100 |
+| machine learning |       1 |                   100 |
 
 ### Expert Talent Pool Physical AI
 
@@ -85,31 +94,6 @@ _No data._
 | plotly        |       1 |                   100 |
 | python        |       1 |                   100 |
 | sql           |       1 |                   100 |
-
-### Senior DevOps Engineer
-
-| skill            |   count |   percent_of_postings |
-|:-----------------|--------:|----------------------:|
-| aws              |       1 |                   100 |
-| azure            |       1 |                   100 |
-| c++              |       1 |                   100 |
-| gcp              |       1 |                   100 |
-| java             |       1 |                   100 |
-| javascript       |       1 |                   100 |
-| kubernetes       |       1 |                   100 |
-| llm              |       1 |                   100 |
-| machine learning |       1 |                   100 |
-| mlops            |       1 |                   100 |
-
-### Senior Software Engineer II Applied AI
-
-| skill         |   count |   percent_of_postings |
-|:--------------|--------:|----------------------:|
-| aws           |       1 |                   100 |
-| communication |       1 |                   100 |
-| java          |       1 |                   100 |
-| llm           |       1 |                   100 |
-| python        |       1 |                   100 |
 
 ### Software Engineer
 
@@ -147,26 +131,26 @@ _No data._
 
 | skill            |   count |   percent_of_postings | already_have   |
 |:-----------------|--------:|----------------------:|:---------------|
-| python           |       7 |                  63.6 | False          |
-| llm              |       5 |                  45.5 | False          |
-| docker           |       4 |                  36.4 | False          |
-| communication    |       4 |                  36.4 | False          |
-| sql              |       4 |                  36.4 | False          |
-| java             |       3 |                  27.3 | False          |
-| javascript       |       3 |                  27.3 | False          |
-| machine learning |       3 |                  27.3 | False          |
-| c++              |       2 |                  18.2 | False          |
-| collaboration    |       2 |                  18.2 | False          |
-| azure            |       2 |                  18.2 | False          |
-| gcp              |       2 |                  18.2 | False          |
-| aws              |       2 |                  18.2 | False          |
-| pandas           |       1 |                   9.1 | False          |
-| plotly           |       1 |                   9.1 | False          |
-| leadership       |       1 |                   9.1 | False          |
-| excel            |       1 |                   9.1 | False          |
-| data pipeline    |       1 |                   9.1 | False          |
-| regression       |       1 |                   9.1 | False          |
-| computer vision  |       1 |                   9.1 | False          |
+| python           |       5 |                    50 | False          |
+| communication    |       4 |                    40 | False          |
+| docker           |       4 |                    40 | False          |
+| machine learning |       3 |                    30 | False          |
+| llm              |       3 |                    30 | False          |
+| sql              |       3 |                    30 | False          |
+| leadership       |       2 |                    20 | False          |
+| collaboration    |       2 |                    20 | False          |
+| javascript       |       2 |                    20 | False          |
+| agile            |       1 |                    10 | False          |
+| c++              |       1 |                    10 | False          |
+| java             |       1 |                    10 | False          |
+| azure            |       1 |                    10 | False          |
+| pandas           |       1 |                    10 | False          |
+| plotly           |       1 |                    10 | False          |
+| gcp              |       1 |                    10 | False          |
+| excel            |       1 |                    10 | False          |
+| data pipeline    |       1 |                    10 | False          |
+| regression       |       1 |                    10 | False          |
+| computer vision  |       1 |                    10 | False          |
 
 
 
@@ -174,19 +158,19 @@ _No data._
 
 |   priority | skill            |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:-----------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | python           |             63.6 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          2 | llm              |             45.5 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          3 | docker           |             36.4 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
-|          4 | communication    |             36.4 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          5 | sql              |             36.4 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          6 | java             |             27.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          7 | javascript       |             27.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          8 | machine learning |             27.3 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          9 | c++              |             18.2 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|         10 | collaboration    |             18.2 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          1 | python           |               50 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          2 | communication    |               40 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          3 | docker           |               40 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          4 | machine learning |               30 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          5 | llm              |               30 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          6 | sql              |               30 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          7 | leadership       |               20 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          8 | collaboration    |               20 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          9 | javascript       |               20 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|         10 | agile            |               10 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 363 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 364 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

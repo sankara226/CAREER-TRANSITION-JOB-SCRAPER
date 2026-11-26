@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-11-25T16:40:09_
+_Generated: 2026-11-26T01:27:32_
 
-_Based on 376 accumulated run(s)_
+_Based on 377 accumulated run(s)_
 
 
 
@@ -12,35 +12,29 @@ _Based on 376 accumulated run(s)_
 
 | skill                  |   count |   percent_of_postings |
 |:-----------------------|--------:|----------------------:|
-| llm                    |       4 |                  66.7 |
-| python                 |       4 |                  66.7 |
-| sql                    |       4 |                  66.7 |
-| leadership             |       3 |                  50   |
-| machine learning       |       2 |                  33.3 |
-| aws                    |       2 |                  33.3 |
-| collaboration          |       2 |                  33.3 |
-| etl                    |       2 |                  33.3 |
-| gcp                    |       2 |                  33.3 |
-| javascript             |       2 |                  33.3 |
-| airflow                |       1 |                  16.7 |
-| bigquery               |       1 |                  16.7 |
-| ci/cd                  |       1 |                  16.7 |
-| regression             |       1 |                  16.7 |
-| spark                  |       1 |                  16.7 |
-| bayesian               |       1 |                  16.7 |
-| communication          |       1 |                  16.7 |
-| deep learning          |       1 |                  16.7 |
-| reinforcement learning |       1 |                  16.7 |
+| llm                    |       4 |                    80 |
+| python                 |       4 |                    80 |
+| sql                    |       4 |                    80 |
+| leadership             |       2 |                    40 |
+| machine learning       |       2 |                    40 |
+| aws                    |       2 |                    40 |
+| collaboration          |       2 |                    40 |
+| etl                    |       2 |                    40 |
+| gcp                    |       2 |                    40 |
+| javascript             |       2 |                    40 |
+| airflow                |       1 |                    20 |
+| bigquery               |       1 |                    20 |
+| ci/cd                  |       1 |                    20 |
+| regression             |       1 |                    20 |
+| spark                  |       1 |                    20 |
+| bayesian               |       1 |                    20 |
+| communication          |       1 |                    20 |
+| deep learning          |       1 |                    20 |
+| reinforcement learning |       1 |                    20 |
 
 
 
 ## Top Skills by Role
-
-### Product Manager, AI Foundations
-
-| skill      |   count |   percent_of_postings |
-|:-----------|--------:|----------------------:|
-| leadership |       1 |                   100 |
 
 ### Senior Software Developer, Agentic AI - Canada
 
@@ -108,25 +102,25 @@ _Based on 376 accumulated run(s)_
 
 | skill                  |   count |   percent_of_postings | already_have   |
 |:-----------------------|--------:|----------------------:|:---------------|
-| llm                    |       4 |                  66.7 | False          |
-| python                 |       4 |                  66.7 | False          |
-| sql                    |       4 |                  66.7 | False          |
-| leadership             |       3 |                  50   | False          |
-| machine learning       |       2 |                  33.3 | False          |
-| aws                    |       2 |                  33.3 | False          |
-| collaboration          |       2 |                  33.3 | False          |
-| etl                    |       2 |                  33.3 | False          |
-| gcp                    |       2 |                  33.3 | False          |
-| javascript             |       2 |                  33.3 | False          |
-| airflow                |       1 |                  16.7 | False          |
-| bigquery               |       1 |                  16.7 | False          |
-| ci/cd                  |       1 |                  16.7 | False          |
-| regression             |       1 |                  16.7 | False          |
-| spark                  |       1 |                  16.7 | False          |
-| bayesian               |       1 |                  16.7 | False          |
-| communication          |       1 |                  16.7 | False          |
-| deep learning          |       1 |                  16.7 | False          |
-| reinforcement learning |       1 |                  16.7 | False          |
+| llm                    |       4 |                    80 | False          |
+| python                 |       4 |                    80 | False          |
+| sql                    |       4 |                    80 | False          |
+| leadership             |       2 |                    40 | False          |
+| machine learning       |       2 |                    40 | False          |
+| aws                    |       2 |                    40 | False          |
+| collaboration          |       2 |                    40 | False          |
+| etl                    |       2 |                    40 | False          |
+| gcp                    |       2 |                    40 | False          |
+| javascript             |       2 |                    40 | False          |
+| airflow                |       1 |                    20 | False          |
+| bigquery               |       1 |                    20 | False          |
+| ci/cd                  |       1 |                    20 | False          |
+| regression             |       1 |                    20 | False          |
+| spark                  |       1 |                    20 | False          |
+| bayesian               |       1 |                    20 | False          |
+| communication          |       1 |                    20 | False          |
+| deep learning          |       1 |                    20 | False          |
+| reinforcement learning |       1 |                    20 | False          |
 
 
 
@@ -134,19 +128,19 @@ _Based on 376 accumulated run(s)_
 
 |   priority | skill            |   demand_percent | category              | suggested_resource                                                              |
 |-----------:|:-----------------|-----------------:|:----------------------|:--------------------------------------------------------------------------------|
-|          1 | llm              |             66.7 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          2 | python           |             66.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          3 | sql              |             66.7 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
-|          4 | leadership       |             50   | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          5 | machine learning |             33.3 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
-|          6 | aws              |             33.3 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|          7 | collaboration    |             33.3 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
-|          8 | etl              |             33.3 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
-|          9 | gcp              |             33.3 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
-|         10 | javascript       |             33.3 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          1 | llm              |               80 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          2 | python           |               80 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          3 | sql              |               80 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
+|          4 | leadership       |               40 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          5 | machine learning |               40 | ml_ai                 | Structured courses (e.g. DeepLearning.AI, fast.ai) + reproduce papers/projects. |
+|          6 | aws              |               40 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|          7 | collaboration    |               40 | soft_skills           | Seek cross-functional project ownership and structured feedback loops.          |
+|          8 | etl              |               40 | data_engineering      | Build an end-to-end pipeline project using the tool in a sandbox environment.   |
+|          9 | gcp              |               40 | cloud_platforms       | Vendor free-tier + official certification learning paths (AWS/Azure/GCP).       |
+|         10 | javascript       |               40 | programming_languages | Practice via project-based courses (e.g. official language docs + Exercism).    |
 
 
 
 ## Historical Trend
 
-Skill demand over time (last 376 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 377 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`

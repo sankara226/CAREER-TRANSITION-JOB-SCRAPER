@@ -4625,3 +4625,22 @@ run_timestamp,query,skill,count,percent_of_postings,posting_count
 2026-11-26T16:13:54,"ai, data scientist, data science",communication,1,20.0,5
 2026-11-26T16:13:54,"ai, data scientist, data science",deep learning,1,20.0,5
 2026-11-26T16:13:54,"ai, data scientist, data science",reinforcement learning,1,20.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",llm,4,80.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",python,4,80.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",sql,4,80.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",leadership,2,40.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",machine learning,2,40.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",aws,2,40.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",collaboration,2,40.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",etl,2,40.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",gcp,2,40.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",javascript,2,40.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",airflow,1,20.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",bigquery,1,20.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",ci/cd,1,20.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",regression,1,20.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",spark,1,20.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",bayesian,1,20.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",communication,1,20.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",deep learning,1,20.0,5
+2026-11-27T01:24:35,"ai, data scientist, data science",reinforcement learning,1,20.0,5

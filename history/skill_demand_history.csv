@@ -4644,3 +4644,11 @@ run_timestamp,query,skill,count,percent_of_postings,posting_count
 2026-11-27T01:24:35,"ai, data scientist, data science",communication,1,20.0,5
 2026-11-27T01:24:35,"ai, data scientist, data science",deep learning,1,20.0,5
 2026-11-27T01:24:35,"ai, data scientist, data science",reinforcement learning,1,20.0,5
+2026-11-27T15:58:41,"ai, data scientist, data science",airflow,1,100.0,1
+2026-11-27T15:58:41,"ai, data scientist, data science",bigquery,1,100.0,1
+2026-11-27T15:58:41,"ai, data scientist, data science",ci/cd,1,100.0,1
+2026-11-27T15:58:41,"ai, data scientist, data science",llm,1,100.0,1
+2026-11-27T15:58:41,"ai, data scientist, data science",python,1,100.0,1
+2026-11-27T15:58:41,"ai, data scientist, data science",regression,1,100.0,1
+2026-11-27T15:58:41,"ai, data scientist, data science",spark,1,100.0,1
+2026-11-27T15:58:41,"ai, data scientist, data science",sql,1,100.0,1

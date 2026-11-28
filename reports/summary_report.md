@@ -2,9 +2,9 @@
 
 
 
-_Generated: 2026-11-27T15:58:41_
+_Generated: 2026-11-28T00:57:42_
 
-_Based on 380 accumulated run(s)_
+_Based on 381 accumulated run(s)_
 
 
 
@@ -72,4 +72,4 @@ _Based on 380 accumulated run(s)_
 
 ## Historical Trend
 
-Skill demand over time (last 380 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
+Skill demand over time (last 381 run(s)): `/home/runner/work/CAREER-TRANSITION-JOB-SCRAPER/CAREER-TRANSITION-JOB-SCRAPER/history/figures/skill_demand_trend.png`
